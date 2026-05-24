@@ -1,0 +1,1473 @@
+ We'll start recording, and then start AI.
+ So now the transcript should be available.
+ Wait, how do I enable transcript?
+ Or is it already enabled?
+ Let me take a lower.
+ It's the Ask AI companion, I think it's already on.
+ This meeting has been recorded, and the AI companion is on, so yes.
+ Okay, then I'll need someone else to go and start the transcript.
+ Okay.
+ Transcript, transcript.
+ For today's meeting, we're going to go through several things.
+ We're going to do a recap of our data progress, our ROS2 progress,
+ and system engineering, alongside our kids.
+ So for the arena, we don't know why we need to start it.
+ Anthony, I think your mic is cutting off.
+ Your mic is cutting off.
+ Is it better now?
+ Yeah.
+ Yes, it's better.
+ Okay, I go through from the top again, all right?
+ Yeah.
+ Okay, so for the arena, we're going to do the scout.
+ We're going to talk about the scouting that we've done,
+ why we did it, who was in charge of it,
+ the roles that were assigned for it,
+ the risks and considerations that we took for the scouting,
+ the evidence,
+ and then what we're going to do after this.
+ Then for ROS2,
+ we're going to talk about our lesson progress,
+ and then if we have any queries about the ROS2 and LiboSign.
+ Then for systems engineering,
+ we just quickly recap our OpsCon, ConOps.
+ After that,
+ then we talk about what our technical processes
+ we're going to have to discuss about,
+ and what else we need to prepare for,
+ for systems engineering.
+ So we move on to the arena first.
+ So arena, we did scouting, right?
+ And we did it because
+ we wanted to look at the layout of Fort Siloso,
+ which is our chosen venue.
+ We also wanted to see how the,
+ how the shape of the island of Fort Siloso,
+ the area it looks like.
+ And then also the,
+ also the different landmarks,
+ and what are the details that they have.
+ And specifically,
+ more specifically,
+ how we can be inspired by the
+ layout of Fort Siloso
+ for our arena routing as well.
+ I think why we decided to go and physically scout
+ instead of just relying on Google Images,
+ because certain stuff,
+ you can't really find on Google Images.
+ And plus,
+ we want to get a better,
+ like, sensing of the sizing
+ of certain landmarks and structures.
+ It was also better that
+ since we went to Fort Siloso there,
+ we were able to find a diorama
+ that was,
+ that helped us to
+ visualize the arena
+ that we want to make.
+ Mm-hmm.
+ And the people who were in charge
+ was Dino for taking the photos.
+ Who else was in charge of it?
+ Louis was there.
+ He did take some pictures.
+ The coordination also.
+ Of us.
+ Of us, like,
+ just walking around Fort Siloso.
+ Mm-hmm.
+ The coordination
+ was also taken by Louis's things.
+ Oh, yeah, right.
+ Then navigation.
+ We also had, uh...
+ We also used Strava
+ to track, like,
+ the distance covered, right?
+ The path.
+ Yeah.
+ Then for all this evidence, right,
+ like the artifacts
+ that we'll produce
+ for the scouting,
+ we have it inside a zip file
+ and we will upload it
+ to Git later.
+ Yep.
+ It will be uploaded
+ by end of this week
+ because I still need
+ to filter through
+ the pictures
+ that we plan to use
+ as a...
+ to show others.
+ Yeah, I understand.
+ This one will be done
+ by Dino and I.
+ Okay.
+ Okay.
+ So what are the risks
+ we took
+ when we went there?
+ The risks...
+ I think one of the risks
+ would be weather
+ because
+ depending on the weather,
+ we might have gotten
+ a bit sort of stranded
+ but luckily
+ the weather was fine.
+ It was raining
+ by the time
+ we were leaving
+ so we were lucky enough
+ to be, like,
+ scouting the area
+ right before
+ the rain started.
+ Okay.
+ So for this...
+ The risk, right,
+ was that the weather
+ was not consistent
+ so we checked
+ the nights before
+ a few hours before
+ and
+ after 12pm
+ because we reached the van
+ because we planned
+ to start scouting
+ at about
+ 1pm.
+ Correct.
+ We saw that it was
+ sunny in the...
+ We saw the weather forecast
+ was sunny
+ then it was cloudy
+ and then there was, like,
+ a chance of rain
+ nearer to
+ 2pm.
+ So aside from that
+ the risk was
+ mosquito bites
+ for the
+ risk of
+ infection
+ or uneven terrain
+ because
+ it's a very old area
+ and so
+ the precautions
+ that we took
+ was covered shoes
+ long pants
+ and then
+ an umbrella
+ in case
+ it started raining.
+ of wet weather.
+ Yeah.
+ We also
+ prepared
+ bottles of water
+ for ourselves
+ in case
+ because
+ we are going out, right?
+ So there's a chance
+ of a stroke
+ or heat exhaustion.
+ And
+ prior to
+ the actual
+ scouting
+ we
+ did a sanity check.
+ We made sure that
+ everybody has
+ their stuff prepared
+ including
+ like the cameras
+ make sure that
+ we have sufficient
+ barrier
+ because we are
+ using our phones
+ to take the photos.
+ I think
+ an additional
+ precaution was
+ we also
+ planned for
+ 2 different days
+ in case
+ like
+ let's say
+ Monday
+ or whatever
+ for some reason
+ it's raining
+ then we can go
+ on an alternative
+ day.
+ Yep.
+ That was
+ part of the plan
+ as well.
+ Yep.
+ Okay
+ there's something
+ I want to add on.
+ Regarding
+ about
+ taking pictures
+ right
+ we actually
+ took pictures
+ of each other
+ beside the landmark
+ so that we get
+ a better idea
+ of how to scale
+ the
+ props
+ or cannons
+ in this case
+ for our
+ arena.
+ So by standing
+ beside it
+ we will get
+ a rough idea
+ of how big
+ the
+ arena should be.
+ plus you are
+ adding
+ like
+ humanoid
+ props as well
+ like the
+ soldiers
+ and whatnot.
+ Yep.
+ Okay.
+ So I believe
+ that was
+ the recap
+ for the
+ arena
+ right?
+ Do we have
+ anything else
+ that we want
+ to add on?
+ Like any
+ considerations
+ anything that
+ you felt
+ that we need
+ to
+ point out?
+ on the
+ recap
+ no.
+ Okay.
+ In that case
+ right we can
+ now move
+ on to the
+ next step
+ of our
+ arena
+ because I
+ believe that
+ we have
+ obtained
+ sufficient
+ information
+ to
+ begin
+ planning
+ the arena
+ creation
+ without
+ having to
+ revisit
+ the area
+ again.
+ So I
+ believe
+ Joven
+ mentioned
+ that
+ he used
+ an app
+ to
+ generate
+ some
+ terrain
+ two
+ trimesters
+ ago.
+ Correct?
+ Yeah that
+ one was
+ from
+ C
+ programming
+ that
+ time.
+ It's a
+ software.
+ It's an
+ open source
+ software that
+ we all can
+ use.
+ It's called
+ Advanced
+ Warfare
+ Map
+ Editor.
+ This
+ software is
+ basically
+ like a
+ miniature
+ one-to-one
+ skill that
+ we can
+ replicate
+ in a
+ map
+ if we
+ wanted
+ to.
+ Yeah
+ it's
+ okay.
+ Well this
+ one I
+ used it
+ for
+ C
+ programming
+ to
+ visualize
+ the
+ map
+ that
+ we
+ couldn't
+ see
+ that
+ time.
+ So it
+ was a
+ useful
+ way to
+ show
+ the
+ map
+ layout
+ of
+ what
+ we
+ needed
+ to
+ see
+ for
+ the
+ programming
+ itself.
+ Is it
+ capable of
+ only doing
+ 2D?
+ So far
+ it's only
+ capable of
+ doing
+ 2D.
+ I think
+ it's
+ good
+ enough.
+ Alright
+ yeah.
+ Yeah
+ I'm sure
+ things will
+ do.
+ You
+ link
+ us
+ as
+ props.
+ Props?
+ He also
+ has
+ props like
+ buildings,
+ boats,
+ even the
+ canons.
+ Alright
+ alright.
+ Can you
+ link us
+ the
+ link?
+ I think
+ he got
+ sent before
+ right?
+ Yeah he
+ linked before
+ right?
+ Are you sure
+ he sent
+ the
+ executable
+ yeah?
+ Yeah.
+ I sent
+ the whole
+ file
+ already.
+ Okay
+ I'll
+ upload it
+ to git
+ also.
+ But since
+ it's
+ open source
+ can you
+ just link
+ us
+ to
+ the
+ github
+ or
+ something?
+ I don't
+ know.
+ We will
+ just
+ add it
+ to
+ github
+ lah.
+ Don't
+ worry
+ about it.
+ In that
+ case is
+ there like
+ another
+ application
+ that we
+ can
+ potentially
+ use?
+ We might
+ need to
+ go and
+ find out.
+ Layout
+ wise if
+ really
+ other choice
+ then we
+ can just
+ use
+ MSP
+ but we
+ can find
+ a better
+ software
+ than
+ just to
+ show
+ to see
+ and plan
+ out the
+ layout.
+ just
+ something
+ that we
+ can
+ draw
+ on
+ digitally
+ to
+ better
+ see
+ how
+ the
+ routing
+ goes.
+ Might be
+ good to
+ get used
+ to
+ the
+ software
+ that
+ Jovan
+ suggested
+ if we
+ plan to
+ use it
+ moving
+ forward
+ because
+ I
+ haven't
+ seen
+ it
+ before.
+ It would
+ be good
+ to
+ familiarize
+ yourself
+ with it
+ as well.
+ For
+ time
+ being
+ right,
+ I want
+ to
+ make
+ sure
+ that
+ we
+ have
+ other
+ avenues
+ of
+ applications
+ that
+ we
+ can
+ use
+ to
+ plan
+ out
+ the
+ layout
+ so
+ that
+ between
+ the
+ available
+ ones.
+ Aside
+ from
+ that
+ I'm
+ not
+ sure
+ if
+ we
+ can
+ use
+ a
+ free
+ cat
+ I'm
+ not
+ quite
+ sure.
+ I think
+ free cat
+ can.
+ Because
+ it has
+ BIM
+ which
+ is
+ building
+ like
+ it's
+ basically
+ for
+ architecture
+ students
+ to use
+ but
+ this
+ one
+ is
+ a
+ whole
+ different
+ league
+ of
+ its
+ own.
+ I'm
+ not
+ sure
+ how
+ to
+ use
+ it.
+ I
+ only
+ know
+ that
+ it
+ exists.
+ So
+ if
+ want
+ to
+ right
+ this
+ one
+ is
+ legit
+ need
+ to
+ go
+ and
+ self
+ study
+ go
+ and
+ self
+ learn
+ because
+ free cat
+ is
+ an
+ open
+ source.
+ I
+ think
+ we
+ see
+ what's
+ sufficient
+ because
+ I
+ don't
+ think
+ we
+ may
+ not
+ even
+ need
+ to
+ go
+ that
+ overkill.
+ And I
+ believe
+ we also
+ mentioned
+ Blender
+ at one
+ point in
+ time.
+ If all
+ else fails
+ we'll
+ just
+ go
+ back
+ to
+ SOLIDWORKS
+ again.
+ Yeah
+ I
+ don't
+ mind
+ also.
+ Or
+ worst
+ case
+ simple
+ people
+ and
+ banned.
+ Some
+ of
+ the
+ models
+ we
+ make
+ also
+ in
+ SOLIDWORKS
+ then
+ if
+ you
+ want
+ to
+ do
+ some
+ technical
+ part
+ assembly
+ or
+ part
+ assembly
+ you
+ can
+ use
+ SOLIDWORKS
+ I
+ think
+ it's
+ a
+ good
+ idea
+ also
+ actually.
+ Okay.
+ Okay.
+ In that
+ case I
+ think that
+ is
+ okay for
+ now.
+ We
+ keep
+ everything
+ else
+ in
+ view
+ like
+ the
+ BI
+ and
+ the
+ SOLIDWORKS.
+ So
+ now
+ we
+ need
+ to
+ talk
+ about
+ the
+ actual
+ arena
+ planning.
+ What
+ do we
+ want
+ to
+ put
+ on?
+ Okay.
+ So for
+ the
+ arena
+ planning
+ I
+ think we
+ are going
+ for
+ the
+ Fort
+ Siloso
+ museum
+ as in
+ like
+ post-war
+ where
+ the area
+ is turned
+ into a
+ museum
+ rather than
+ the
+ Japanese
+ occupation
+ where
+ it's
+ still
+ in
+ war.
+ I
+ understand.
+ You're
+ going to
+ do
+ the
+ post-war.
+ The
+ most
+ current
+ version.
+ The
+ most
+ current
+ version.
+ Based
+ on what
+ we've
+ seen so
+ far.
+ So
+ what
+ this
+ means
+ is
+ we're
+ going
+ to
+ have
+ the
+ trash
+ cans
+ and
+ we're
+ going
+ to
+ have
+ buildings.
+ Shelters
+ and the
+ iconic
+ cannons
+ that's
+ laid
+ out
+ in
+ that
+ specific
+ way.
+ I
+ believe
+ Chi
+ Hui
+ drew
+ a
+ rough
+ drawing
+ of
+ how
+ we
+ wanted
+ it
+ to
+ look
+ like
+ and
+ then
+ everybody
+ agreed
+ that
+ we
+ want
+ to
+ surround
+ it
+ based
+ on
+ the
+ most
+ iconic
+ location
+ which
+ is
+ that
+ one
+ singular
+ cannon
+ nearer
+ to
+ the
+ end
+ of
+ the
+ entire
+ round.
+ Yeah.
+ Number
+ 26
+ if I
+ recall.
+ So
+ I
+ remember
+ the
+ south
+ area
+ of
+ the
+ layout
+ right?
+ I
+ remember
+ from
+ the
+ that
+ round.
+ Yeah.
+ Correct.
+ If you
+ have a
+ picture
+ of
+ the
+ drawing
+ it
+ would
+ be
+ good
+ for
+ you
+ to
+ show
+ it
+ to
+ us.
+ Yeah, I'll upload.
+ I'll upload.
+ Oh, you want to show it now?
+ Yeah, just upload inside Telegram and we'll see from there.
+ We will upload it to Kim another time.
+ By the end of the switch also.
+ Okay, then not only that, I think what we need to further refine for that one that we discussed
+ right, is that that one doesn't have the center circle.
+ So if we have the center circle and the vehicle needs to touch it, then we might need to revise the
+ planner B
+ plan a bit.
+ Okay, we
+ upload first, then we are...
+ Correct, correct.
+ Yeah.
+ Okay, no issue.
+ I'm more scared of that the scale, because the scale isn't exactly to size, then it's also not a very nice drawing.
+ So, yeah, that is just one of the concerns that we'll have to face, or at least address for the...
+ I think it's going to be so long as you have a rough idea of what it should look like.
+ But also remember that I think the roads have to intersect that 10 cm circle at the center, right?
+ So I don't know if we can exactly put the cannon right smack in the middle, since the robots need to kind of...
+ wait, do they need to pass through the area, or just so long as the roads like touch the center can already?
+ Yeah, I'm not sure.
+ I'm not sure.
+ If I recall, it should be just touch through the center there.
+ Okay.
+ Okay.
+ Yeah, then in touch, then it's still okay.
+ Then that answers the question.
+ If I remember from what Johanna said, right, is the circle is meant as like the center point,
+ and it is required that they need to intersect, so they need to go through it, like in one point of view.
+ If not, it would be like too complicated for the routing already.
+ Like some people could do a zigzag pattern for the arena, which makes no sense.
+ Oh yeah.
+ Fair enough.
+ Fair enough.
+ We definitely have enough room to add in our curves that we want for our arena, because
+ it's 1.5 meters square, which is actually quite big, by the way.
+ Our opening, I think, based off the limo's dimension, right, 40 or maybe even 50 cm at most
+ should be sufficient.
+ We will have plenty space, I believe.
+ And then the main route itself, right, can be 40 cm, because the width of the limo is
+ just like 22 cm, I believe.
+ Correct.
+ The seniors use 30 cm, so it's actually quite feasible.
+ From the previous, because from our seniors, there are previous models, right, the narrowest
+ one that I measured at the time was about 30 cm.
+ Yes, yes, yes.
+ So, plenty of space to work with.
+ If the routing is 30 cm, right, it's like what?
+ Five times less than a fifth of the width.
+ We can definitely work with that.
+ Create some interesting curves that ends up intersecting it.
+ It's just how we want to draw it.
+ I think we got a large degree of freedom to create the routing from there.
+ Anything else for this part?
+ We can move on to the raw tools, I guess.
+ I think for round creation, do you want to adjunct to the next week?
+ For like the, specifically like the path, the padding that the robot, that you want the robot
+ to take?
+ I think we wait for, I think we discuss this next week?
+ When all the materials are here?
+ The materials are here.
+ The materials are here.
+ The materials are here.
+ The materials are here.
+ As in the plot itself, is it?
+ Yeah, the plot itself.
+ Yeah, the path.
+ How they're all parving from start to finish.
+ I feel like this is a gamble.
+ That tomorrow, we might be able to see the entire plot already.
+ Johannes might bring us to see the plot.
+ The thing is, we are not sure when.
+ And of course, it's just, we're not sure.
+ Then if we can see the plot, then we can get started.
+ That's quite simple.
+ But if not, I think what we should do is we use the software
+ that Jogan recommends us first.
+ We draw on it first.
+ Then we figure out from there.
+ Or if you really want, we can do on SOLIDWORKS.
+ Because SOLIDWORKS, technically you can, quote unquote,
+ draw on the surface.
+ It's fine.
+ Then I think we can defer this to next week.
+ So we can take our time to familiarize with the software
+ that we intend to use.
+ Then afterwards, when we have more info, we can discuss this again next week.
+ Yeah.
+ Okay.
+ I will send the blim design on tally later after this meeting.
+ I mean, it would be good to send out so that we can roughly gauge what we need to actually...
+ Like we just everybody get on the same page right now for the sake of our minutes.
+ Then give me a while.
+ I go and grab my design.
+ Yeah.
+ Okay.
+ Because I don't think...
+ Like, how do I say?
+ Whatever we say, right?
+ I don't think it correctly aligns with whatever we agreed on on the date itself.
+ Because I remember we wanted...
+ Because I remember we wanted...
+ We said that it was...
+ We luckily chose a corner.
+ And it just so happens that Fort City also is facing the sea, right?
+ Yeah.
+ So we wanted a portion of the arena to mimic the water area.
+ And then we wanted some form of elevation that differentiates the water body from the main body.
+ Yeah, which is why I wanted to also add on.
+ Because the...
+ Because we are going to add on water surface there, are we going to like...
+ Have Fort Siloso to be like quite steep?
+ Like, are we...
+ Because we are adding elevation to the arena, right?
+ So how steep are we going to make it?
+ This one need to consider...
+ Like, when we add the elevation, right?
+ Whatever materials underneath can handle the weight of the robot, right?
+ Yeah.
+ So whether we want to add elevation is also a question we need to address, right?
+ Also, I think...
+ If I recall correctly...
+ Because the demo robot itself has multiple...
+ Okay, I can't call it...
+ There are multiple modes of travel, right?
+ Correct.
+ So each...
+ Depending on what we choose, it will affect how it travels on uneven terrain as well.
+ So I think we will need to agree on that first before we can properly decide, like, what kind of obstacles we put.
+ We also need to account for the fact that we need to complete the obstacles that we set out to make with our own robot before we can actually put it to use.
+ Yeah.
+ Okay, I think we should...
+ I think we should...
+ Okay, Jiwei has uploaded the picture.
+ Jiwei first, Jiwei first.
+ Yeah.
+ Okay, sorry.
+ I think we should come up with what we want to do for the arena first.
+ For the obstacles that we think the robot can face.
+ Then from there, we still need to know what we want to use for the limo also.
+ Because we have both a normal wheels track and the mecanum.
+ Yeah.
+ So if we do elevation, my suggestion is that we use the track.
+ Because honestly, track is quite good.
+ It's multi-terrain based.
+ So if we want to do elevations in terrain and then dips, I think track would be a good idea.
+ But that is also based on the fact that other groups might have a different way of doing it.
+ Because I am so scared that track that is...
+ We are not...
+ The limo is...
+ I look at the way the limo's track work, right?
+ It's not exactly the best.
+ In a sense that the track, if...
+ It can come out.
+ It can come out.
+ Because it's not like fully set properly.
+ It's only like using teeth to clip onto each other.
+ Yeah, it's not tension properly.
+ And there's only two anchor points, which is the two individual wheels.
+ So if anything happens in the middle that causes the tension to loosen or snap,
+ then it's game over for it, I believe.
+ I got a...
+ I got an input that I want to talk about regarding about the elevation.
+ So...
+ The elevation, right?
+ I think we...
+ I think it's actually quite a hard thing to do because we have to add on like
+ another like level on the z-axis ourselves.
+ We have to include like another platform.
+ So instead of, you know, including the platform just so we can show that little body of water,
+ right?
+ Why don't we just create like a, you know, a false body...
+ A false body of water at the same level where the limo is running to begin with.
+ We can say that the water, the water at the limo.
+ Yeah, we just add a color there.
+ Or if you want, right?
+ We can just make it look like water.
+ Add resin.
+ Add a little bit of gloss to mimic the water surface.
+ Shine.
+ We don't have to add or create a new like level to elevate.
+ Yes, we don't have to do that.
+ I think it just like introduces a little bit of complexity.
+ Unless you mean you want to like put a little bit of elevations like maybe humps or whatnot
+ to like, you know, make the terrain, make our terrain a little bit more unique.
+ But I think you should stick with like ground floor stuff.
+ Yeah, for that, right, we can discuss on where we want certain parts of our maps to be elevated
+ rather than like a larger portion to be elevated just to show the water.
+ For the elevation part, right, we should try to minimize the effect of elevation on the routing
+ itself.
+ The diorama, everything else other than the routing can be affected.
+ be affected by elevation.
+ But try not to affect the routing itself.
+ Of course, I'm not sure how far we haven't like, you know, test the limo yet.
+ So if we push it too hard, then the limo cannot do, then we will still cook lah.
+ Mm-hmm.
+ Hmm.
+ Hopefully we can touch it this Thursday.
+ Mm-hmm.
+ Okay.
+ Yeah.
+ But yeah, that's a good point to have.
+ So we need to make sure that the routing is not affected by the elevations since we don't
+ know what it's truly capable of, aside from what we have on the documentation since it didn't
+ really say what, how high it can go.
+ Yeah.
+ Yeah.
+ Mm-hmm.
+ Yes.
+ Is there anything else you want for this?
+ So, speaking of like, the placements of the staff, right, what exactly do we want on
+ the arena itself?
+ Like, we've already talked about the water body.
+ Mm-hmm.
+ How about like, the roundabout, and then the path?
+ How do we want the path into the blood?
+ Okay, for the roundabout, right, surrounding the roundabout is rocks and a rock wall and grass.
+ So, for the rock wall, I think we can find a way to make it via 3D printing.
+ Mm.
+ Yeah, spray paint over it.
+ Actually, I got an alternative.
+ Mm.
+ Uh, because I went to ArtFriends to just like, scout a bit.
+ Yeah.
+ I found a bunch of like, very large, like, foam style foam kind of material.
+ I think we can maybe use that if you all want.
+ Uh, if you're mimicking the walls, if you're mimicking the walls around the roundabout, right,
+ I think it's easier to print and then paste it over.
+ Because if we were to like, if we were to like, do that by hand, right, it's actually very hard.
+ Because we have to mimic the so-called layer lines of the wall around the roundabout.
+ I think it's easier to do via the 3D printing.
+ I agree.
+ Okay.
+ Yeah.
+ Uh, my question is that currently we do not know the price of, the usage of 3D printing.
+ Uh, cause apparently Johannes is, has like, a price for 3D printing.
+ Uh, if it's gonna cost a lot for 3D printing, right, we might want to limit the 3D prints,
+ uh, to a certain amount.
+ Yes.
+ So we need to find out how much is 1kg from-
+ Of filament, right?
+ Yes.
+ Yes.
+ Of 1kg of filament, yes.
+ If it's reading, like, it's reading, like, less than $20, right?
+ In RSC dollars, or whatever.
+ It's $500.
+ I say it's, I say it's completely fine.
+ We have got $500 to work with and $20 for 1kg.
+ Actually, that 1kg, we can do a lot of things.
+ Yes.
+ I understand.
+ I'm pretty sure that 1kg, I'm pretty sure that 1, okay, I don't say 1kg, I'll say 2kg.
+ I think 2kg is enough for us to print out every single prop for our arena that's later.
+ Yeah, definitely.
+ Yeah.
+ So, it shouldn't be too expensive.
+ Because I don't think we're using, like, the last term's RSC dollars anymore.
+ We're using real currency.
+ Correct.
+ Yeah.
+ We are using real currency.
+ Real currency.
+ So, my point here is, if it costs less than $20, right, for 1kg, right, go for it.
+ I think it's okay with that.
+ I mean, technically we have $500.
+ Yeah.
+ We have $500.
+ So, technically...
+ As long as we submit, like, a receipt.
+ We submit a receipt showing, like, what we buy and then what we are using it for.
+ Then they will send it to the financial side there.
+ Yeah.
+ To claim, lah.
+ Yeah.
+ But, that one is...
+ I'm not sure if it applies to the filament.
+ Because he never exactly specified.
+ Because he wants to regulate filament.
+ The filament is simplified.
+ You can ask him much more, lah.
+ Yeah.
+ Yeah.
+ That we need to clarify.
+ Yeah.
+ So, for that one, we put on hold.
+ Okay.
+ Okay.
+ The routing-wise, I have a suggestion that might be better for currently, from the one that I suggest.
+ Because the cloud one that I suggest, right, is...
+ To be fair, it's quite direct.
+ It's just...
+ Go in from...
+ From the right side.
+ Then goes to around about.
+ Then goes out via the left side.
+ The top side.
+ If you look it from top down, lah.
+ So, what if...
+ R1, it goes from the right side.
+ Goes to the center circle first.
+ Then U turns.
+ Then from that, from the center circle itself, then you have the roundabout.
+ Okay.
+ That way, then our diorama can be slightly more detailed to a certain extent.
+ That...
+ There will be...
+ Instead of...
+ Right on the stage of the...
+ Of the routing, right, is water.
+ It can be a bit of ground first, then water.
+ Then we don't have to show the elevation of what.
+ Or if we want, we can show the elevation a little bit.
+ Because...
+ If you put the land right beside the route, right, we can show that...
+ We can put the land slightly elevated, so that it purposely don't...
+ The vehicle, if it heats, right, it doesn't directly go into the water.
+ But it heats the...
+ The diorama's land portion.
+ Something like that lah.
+ But...
+ That one is...
+ Up to you all.
+ So...
+ It's just a suggestion.
+ Or if you all have any better ideas for...
+ The routing.
+ Uh...
+ You all can just...
+ Draw it out.
+ Then just go in the group chat, lah.
+ Yeah, if it's possible, can you draw it out and then we see...
+ Look at it tomorrow.
+ Yes, please.
+ Yeah, I'll draw it out.
+ Yeah.
+ Okay, appreciate it.
+ Uh...
+ We only have like...
+ Six minutes left, so...
+ We quickly cover ROS2.
+ From what I understand, right...
+ We're supposed to get started on the URDF...
+ TF portion of ROS2...
+ This Thursday.
+ So I...
+ If I'm correct, right...
+ I've inquired everyone earlier...
+ Like...
+ Just last night...
+ To check on your progress.
+ And...
+ Aside from me...
+ No one else has touched on the...
+ TF portion of ROS2.
+ It takes about one hour to go through.
+ So it's...
+ And it's actually...
+ Fairly simple...
+ Relatively speaking...
+ Compared to like normal coding.
+ What it roughly covers, right...
+ Is...
+ That's XML...
+ Which is similar to...
+ CSS and HTML coding.
+ So...
+ Okay.
+ If you want to, right...
+ You need to...
+ Look through the...
+ Tutorial.
+ It's...
+ Very simple to...
+ It's more like...
+ You're assigning tags to a particular line...
+ And then you're calling it back every time.
+ The consideration that you need to have, right...
+ Okay, I understand.
+ Is that...
+ The units are in meters...
+ And there's a XYZ...
+ RPY...
+ Your raw PTO...
+ And...
+ All your origin...
+ All the objects you create, right...
+ Will...
+ At least be one object...
+ That is called...
+ Base underscore link...
+ Because that's what...
+ Is hard coded to do...
+ Solar.
+ And all the objects you created...
+ Subsequently, right...
+ They must have a...
+ Zero zero zero origin...
+ So that you can...
+ Properly...
+ Like...
+ It's generally good practice...
+ Looking at zero zero zero...
+ Origin...
+ Zero zero zero...
+ RPY...
+ So that you can...
+ Properly transform everything...
+ Like...
+ Move it left, right, up, down...
+ And turn it...
+ So when you create the link...
+ That's when you go and adjust the origin...
+ The raw page yaw...
+ Then from there, right...
+ You fix the...
+ Arrow...
+ The XYZ arrows...
+ By changing it...
+ Inside the...
+ Object's...
+ Origin...
+ Okay...
+ So...
+ If I'm not wrong, right...
+ Tomorrow...
+ Then...
+ You guys are supposed to use that one hour...
+ To do the studies...
+ But...
+ If you guys have time later, right...
+ You can get started on it...
+ I would also recommend that...
+ You look into...
+ Which is...
+ Lesson five...
+ Lesson four is about...
+ Manipulating the...
+ ROS2...
+ The TF...
+ Using your console...
+ That one I haven't touched yet...
+ Okay...
+ So that's...
+ For ROS2...
+ If you guys have any queries...
+ About the previous lesson, right...
+ I haven't realized that one yet...
+ Okay...
+ Then...
+ For that, right...
+ We move on to...
+ SE...
+ I think it'd be better for us...
+ To end the recording...
+ And then we start another one...
+ Just to cover SM...
+ Yeah...
+ Start again...
+ Yes...
+ Okay...
+ Save the transcript first...
+ Before we exit, by the way...
+ Ah...
+ Oh yeah...
+ Yes...
+ Who...
+ Who has started the transcript...
+ I started the transcript...
+ But then I...
+ Can't find a way...
+ To save it...
+ For some reason...
+ Do I need to...
+ End the thing before...
+ No...
+ You might need to...
+ You can't...
+ You can't...
+ You can't...
+ Let's see...
+ No...
+ Meeting question...
+ Meeting summary...
+ Meeting transcript...
+ Start taking notes...
+ Meeting notes...
+ We should call fine...
+ Deal...
+ And then the transcript will produce...
+ Has anyone else started the transcript or...
+ I started...
+ I'm not going to start the transcript...
+ Because like...
+ The host is doing transcripts...
+ I cannot...
+ Yeah...
+ Host is doing transcripts...
+ I think your...
+ I think your end also...
+ Should have Anthony...
+ I don't have it...
+ I don't have it on my end...
+ I think it's at the end only...
+ Only at the end...
+ Only at the end...
+ Yeah...
+ Okay...
+ In that case...
+ I'll go and...
+ Stop the recording...
+ Then...
+ Our end is meeting...
+ And...
+ Try to find the...
+ Transcript...
+ And put it inside the group chat first...
+ Okay...
+ Alright...
+ Ken...
+ Okay...
+ Everybody can now leave the call...
+ Then we just rest a little bit...
+ Take 10...
+ Time step...
+ Time step 38 minutes...
+ Yeah...
+ Just for...
+ Okay...
+ Ken...

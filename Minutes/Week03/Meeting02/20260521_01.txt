@@ -1,0 +1,1347 @@
+[LUIS SHAO HUI VOO] 13:37:48
+Okay, so… let us begin our… Not recording first
+
+[LUIS SHAO HUI VOO] 13:37:54
+over in the recording
+
+[LUIS SHAO HUI VOO] 13:37:55
+How do we call
+
+[Tan Ka Heng Anthony] 13:38:05
+Oh, okay.
+
+[Tan Ka Heng Anthony] 13:38:06
+Okay, so for this meeting, Ji Hui is the host because.
+
+[Tan Ka Heng Anthony] 13:38:12
+I have ran out of token for the AI companion.
+
+[Tan Ka Heng Anthony] 13:38:16
+Today's agenda, right, uh…
+
+[Tan Ka Heng Anthony] 13:38:18
+Is to follow up on the
+
+[Tan Ka Heng Anthony] 13:38:22
+Systems engineering topics that we
+
+[Tan Ka Heng Anthony] 13:38:24
+We're planning to cover?
+
+[Tan Ka Heng Anthony] 13:38:26
+Ah, yesterday.
+
+[LUIS SHAO HUI VOO] 13:38:37
+Okay, so…
+
+[LUIS SHAO HUI VOO] 13:38:41
+Shall we begin on our
+
+[LUIS SHAO HUI VOO] 13:38:45
+First topic
+
+[LUIS SHAO HUI VOO] 13:38:46
+For systems engineering room
+
+[LUIS SHAO HUI VOO] 13:38:51
+Okay
+
+[LUIS SHAO HUI VOO] 13:38:52
+So
+
+[LUIS SHAO HUI VOO] 13:38:55
+We will talk about
+
+[LUIS SHAO HUI VOO] 13:38:57
+Con ops first. Do a little bit of WCAT. So co-ops is the first
+
+[LUIS SHAO HUI VOO] 13:39:04
+process that we discussed on earlier, mainly to relate to our
+
+[LUIS SHAO HUI VOO] 13:39:13
+S&P
+
+[LUIS SHAO HUI VOO] 13:39:15
+project
+
+[LUIS SHAO HUI VOO] 13:39:19
+Though Cornelops is like
+
+[LUIS SHAO HUI VOO] 13:39:25
+a general overview of how the
+
+[LUIS SHAO HUI VOO] 13:39:30
+Project should be run and how what and why.
+
+[LUIS SHAO HUI VOO] 13:39:36
+And less of, like, what the project
+
+[LUIS SHAO HUI VOO] 13:39:40
+And less of how the project actually works itself
+
+[LUIS SHAO HUI VOO] 13:39:43
+Which in this case is the Limo robot. How are we going to control
+
+[LUIS SHAO HUI VOO] 13:39:49
+And, how our arena is gonna be designed for what specific way and whatnot
+
+[LUIS SHAO HUI VOO] 13:39:56
+Yeah.
+
+[Tan Ka Heng Anthony] 13:40:05
+Mm-hmm.
+
+[Tan Ka Heng Anthony] 13:40:07
+So then write up.
+
+[Tan Ka Heng Anthony] 13:40:09
+Do we have any questions about conops?
+
+[RSE Chee Hui Tan] 13:40:18
+This shit works, this shit.
+
+[RSE Chee Hui Tan] 13:40:20
+All good, all good. All good.
+
+[Tan Ka Heng Anthony] 13:40:22
+Okay, if all good, right, then…
+
+[Tan Ka Heng Anthony] 13:40:26
+We're going to talk about OpsCon.
+
+[Tan Ka Heng Anthony] 13:40:28
+Uh, the OPSCON definition, right?
+
+[Tan Ka Heng Anthony] 13:40:32
+is…
+
+[Tan Ka Heng Anthony] 13:40:33
+Quite similar to Corn Orbs.
+
+[Tan Ka Heng Anthony] 13:40:36
+But…
+
+[LUIS SHAO HUI VOO] 13:40:41
+But it's a little bit more specific compared to CONOps, specific in terms of
+
+[LUIS SHAO HUI VOO] 13:40:46
+It's
+
+[LUIS SHAO HUI VOO] 13:40:49
+Specific tool
+
+[LUIS SHAO HUI VOO] 13:40:50
+Certain by institute is much more detailed
+
+[Tan Ka Heng Anthony] 13:40:54
+Correct, it's more detailed. It's talking about the specific operations of a.
+
+[LUIS SHAO HUI VOO] 13:40:56
+Yes
+
+[Tan Ka Heng Anthony] 13:41:00
+Like how the service or product that is being produced.
+
+[Tan Ka Heng Anthony] 13:41:06
+will serve his purpose.
+
+[Tan Ka Heng Anthony] 13:41:07
+Is that correct? Like, I'm just a fare freezing right now.
+
+[LUIS SHAO HUI VOO] 13:41:12
+Yes, correct.
+
+[LUIS SHAO HUI VOO] 13:41:14
+It's like a step-by-step or procedure of how something is going to work.
+
+[LUIS SHAO HUI VOO] 13:41:21
+Yes.
+
+[LUIS SHAO HUI VOO] 13:41:27
+OPSC
+
+[LUIS SHAO HUI VOO] 13:41:29
+isn't really something that we touched on yet
+
+[LUIS SHAO HUI VOO] 13:41:33
+Because
+
+[LUIS SHAO HUI VOO] 13:41:35
+We do not have enough information to
+
+[LUIS SHAO HUI VOO] 13:41:38
+like, work with and to produce
+
+[RSE Dino Yeo Guo Wei] 13:41:44
+Like this.
+
+[RSE Dino Yeo Guo Wei] 13:41:45
+We don't have the…
+
+[RSE Dino Yeo Guo Wei] 13:41:48
+When you put in all those.
+
+[RSE Dino Yeo Guo Wei] 13:41:52
+specific processors are defined yet, so you can't really work with.
+
+[RSE Dino Yeo Guo Wei] 13:41:57
+Uh, March things.
+
+[RSE Dino Yeo Guo Wei] 13:41:59
+Uh, you can't really, like, work towards the specifics, because we don't even know what…
+
+[RSE Dino Yeo Guo Wei] 13:42:04
+We haven't defined stock.
+
+[LUIS SHAO HUI VOO] 13:42:05
+We haven't defined stuff. Correct, correct. So
+
+[LUIS SHAO HUI VOO] 13:42:09
+the specifics that we are talking about right here is the limo
+
+[LUIS SHAO HUI VOO] 13:42:17
+is the Limo robot. We haven't got a chance to work with it yet
+
+[LUIS SHAO HUI VOO] 13:42:23
+Some of us, are still
+
+[LUIS SHAO HUI VOO] 13:42:27
+learning how to use raw tools, we are still setting up our RAW stool environment
+
+[LUIS SHAO HUI VOO] 13:42:32
+So, we will get into that once we have our… once everyone's got their ROS to like
+
+[LUIS SHAO HUI VOO] 13:42:40
+settled up properly.
+
+[LUIS SHAO HUI VOO] 13:42:41
+And once we have our hands on the Limo robot, we can explore
+
+[LUIS SHAO HUI VOO] 13:42:48
+And figure out our
+
+[LUIS SHAO HUI VOO] 13:42:52
+We'll figure out how to operate
+
+[LUIS SHAO HUI VOO] 13:42:55
+From there, yeah
+
+[Tan Ka Heng Anthony] 13:42:56
+Okay, does anyone have any questions about the…
+
+[Tan Ka Heng Anthony] 13:43:01
+OPSCon, like, any disagreements or
+
+[Tan Ka Heng Anthony] 13:43:04
+queries about the questions that we have.
+
+[Ng Chee Rui, Ethan] 13:43:07
+Oh, okay. Uh…
+
+[Ng Chee Rui, Ethan] 13:43:09
+No, I don't think so, but maybe you can probably schedule a consult to go and check.
+
+[Ng Chee Rui, Ethan] 13:43:15
+We've brought Pakistan to see if…
+
+[Ng Chee Rui, Ethan] 13:43:17
+That's what the direction he wants.
+
+[Tan Ka Heng Anthony] 13:43:21
+Okay, in that case, right, uh…
+
+[Tan Ka Heng Anthony] 13:43:23
+After the meeting, we'll decide our…
+
+[Tan Ka Heng Anthony] 13:43:26
+No, we should decide when we want to do the consultation right now.
+
+[Tan Ka Heng Anthony] 13:43:30
+So I'm thinking about…
+
+[Tan Ka Heng Anthony] 13:43:32
+Having it done on Tuesday.
+
+[Tan Ka Heng Anthony] 13:43:37
+Since, uh, if I recall correctly, right?
+
+[Tan Ka Heng Anthony] 13:43:38
+Tuesday afternoon is one of the slots that he has assigned us, or…
+
+[Tan Ka Heng Anthony] 13:43:43
+For the consultation, correct?
+
+[Ng Chee Rui, Ethan] 13:43:45
+Correct. Yup.
+
+[RSE Chee Hui Tan] 13:43:45
+Yeah, that's correct.
+
+[Tan Ka Heng Anthony] 13:43:48
+Okay, then, if I'm not wrong, it's 2 to 5 PM, right?
+
+[JOVEN TOH] 13:43:52
+Mission, wonderful.
+
+[JOVEN TOH] 13:43:53
+If I'm not wrong,
+
+[RSE Chee Hui Tan] 13:43:53
+I'm not wrong, it's 2… it's 2 to 4.
+
+[RSE Chee Hui Tan] 13:43:55
+But, yeah, it's about data. We can schedule for about…
+
+[RSE Chee Hui Tan] 13:43:59
+let's say your choice is scheduled for 2 o'clock.
+
+[RSE Chee Hui Tan] 13:44:03
+In case there's any delays.
+
+[RSE Chee Hui Tan] 13:44:05
+we still have some, uh, backup timing.
+
+[Tan Ka Heng Anthony] 13:44:09
+Okay, Ken, I'll try to get a 2PM, if not 3 p.m.
+
+[Tan Ka Heng Anthony] 13:44:15
+Anyways, we're going to diverge a bit.
+
+[Tan Ka Heng Anthony] 13:44:19
+To talk about the ROS tool.
+
+[Tan Ka Heng Anthony] 13:44:23
+A ROS tool update, right? We've already done the dimensions for the…
+
+[Tan Ka Heng Anthony] 13:44:28
+Demode.
+
+[Tan Ka Heng Anthony] 13:44:30
+based on the…
+
+[Tan Ka Heng Anthony] 13:44:31
+Based on the physical limo that we
+
+[Tan Ka Heng Anthony] 13:44:35
+touched, uh, earlier this week, and uh…
+
+[Tan Ka Heng Anthony] 13:44:38
+documentation with the dimensions. We cross-tracked both, and…
+
+[Tan Ka Heng Anthony] 13:44:42
+Uh, I have…
+
+[Tan Ka Heng Anthony] 13:44:44
+done up the…
+
+[Tan Ka Heng Anthony] 13:44:46
+TF and the model inside the.
+
+[Tan Ka Heng Anthony] 13:44:50
+Plus two.
+
+[Tan Ka Heng Anthony] 13:44:53
+for this, right, uh…
+
+[Tan Ka Heng Anthony] 13:44:55
+I will upload it to GitHub.
+
+[Tan Ka Heng Anthony] 13:44:58
+By Saturday 9pm.
+
+[LUIS SHAO HUI VOO] 13:45:04
+Splendid.
+
+[Tan Ka Heng Anthony] 13:45:07
+Okay, now, right, we can continue talking about.
+
+[Tan Ka Heng Anthony] 13:45:10
+the other SE chapters, right?
+
+[Tan Ka Heng Anthony] 13:45:15
+Because if I recall correctly, there's still some stuff that we haven't really covered.
+
+[Tan Ka Heng Anthony] 13:45:20
+from the last… from the past two tries.
+
+[Tan Ka Heng Anthony] 13:45:24
+And, but before that, right, I think it'll be good to recap on.
+
+[Tan Ka Heng Anthony] 13:45:29
+Chapter 2 specifically.
+
+[Tan Ka Heng Anthony] 13:45:32
+So we are kind of clear on the lifecycle management.
+
+[Tan Ka Heng Anthony] 13:45:36
+You know, lifecycle models.
+
+[Tan Ka Heng Anthony] 13:45:39
+So, we can move on to…
+
+[Tan Ka Heng Anthony] 13:45:41
+Chapter 2 point
+
+[Tan Ka Heng Anthony] 13:45:44
+Two, if I recall, or is it 2.3?
+
+[RSE Chee Hui Tan] 13:45:49
+I think it's 2.3, let me point check.
+
+[JOVEN TOH] 13:45:53
+Yeah, it's 2.3.
+
+[Tan Ka Heng Anthony] 13:45:55
+Can someone help me check?
+
+[Tan Ka Heng Anthony] 13:45:55
+Oh yeah, it's 2.3 year. So 2.3.
+
+[Tan Ka Heng Anthony] 13:46:01
+One is…
+
+[Tan Ka Heng Anthony] 13:46:02
+the introduction to lifecycle model process, right?
+
+[Tan Ka Heng Anthony] 13:46:11
+So it's a system lifecycle process.
+
+[LUIS SHAO HUI VOO] 13:46:11
+Yes.
+
+[RSE Chee Hui Tan] 13:46:12
+2.3.3.1.
+
+[Tan Ka Heng Anthony] 13:46:17
+Oh, nicely.
+
+[Tan Ka Heng Anthony] 13:46:17
+Okay.
+
+[Tan Ka Heng Anthony] 13:46:20
+Do we have any questions about the system lifecycle process?
+
+[Tan Ka Heng Anthony] 13:46:30
+If not, right, I'll just quickly recap what, uh…
+
+[Tan Ka Heng Anthony] 13:46:34
+What days inside this particular section calls?
+
+[Tan Ka Heng Anthony] 13:46:37
+I believe this one, right? If you see the models as given.
+
+[Tan Ka Heng Anthony] 13:46:43
+But it mostly explains to you how.
+
+[Tan Ka Heng Anthony] 13:46:45
+The lifecycle is being handled.
+
+[Tan Ka Heng Anthony] 13:46:48
+Especially regarding, like, the symbols, the semantics.
+
+[Tan Ka Heng Anthony] 13:46:52
+Like, the concurrency.
+
+[Tan Ka Heng Anthony] 13:46:54
+iteration and recursion.
+
+[Tan Ka Heng Anthony] 13:46:58
+Does any, I believe everyone here has.
+
+[Tan Ka Heng Anthony] 13:47:01
+still remembers what those three words mean, right?
+
+[LUIS SHAO HUI VOO] 13:47:06
+Yes
+
+[LUIS SHAO HUI VOO] 13:47:08
+concurrency iteration and recursion, right?
+
+[LUIS SHAO HUI VOO] 13:47:11
+Yeah, just
+
+[LUIS SHAO HUI VOO] 13:47:12
+Yes, of course.
+
+[LUIS SHAO HUI VOO] 13:47:15
+So
+
+[LUIS SHAO HUI VOO] 13:47:17
+I'm currently assuming
+
+[LUIS SHAO HUI VOO] 13:47:19
+Right now
+
+[LUIS SHAO HUI VOO] 13:47:21
+Intuition as in
+
+[LUIS SHAO HUI VOO] 13:47:23
+What comes after any recursion as in something that repeats
+
+[Tan Ka Heng Anthony] 13:47:27
+Yeah, those 3.
+
+[Tan Ka Heng Anthony] 13:47:28
+Okay, roughly there, yeah.
+
+[LUIS SHAO HUI VOO] 13:47:29
+Okay, roughly 10. Yeah.
+
+[Tan Ka Heng Anthony] 13:47:31
+So concurrency, right, is something that happens.
+
+[Tan Ka Heng Anthony] 13:47:33
+At the same time, iteration is…
+
+[Tan Ka Heng Anthony] 13:47:37
+A repeat of our…
+
+[Tan Ka Heng Anthony] 13:47:39
+Like a certain process or a certain step.
+
+[Tan Ka Heng Anthony] 13:47:41
+So, for example, right,
+
+[Tan Ka Heng Anthony] 13:47:44
+I am iterating, like…
+
+[Tan Ka Heng Anthony] 13:47:46
+A model, and it's going to improve over time, that's iteration.
+
+[Tan Ka Heng Anthony] 13:47:50
+And concurrency is, like…
+
+[Tan Ka Heng Anthony] 13:47:53
+I do task A and task B at the same time.
+
+[Tan Ka Heng Anthony] 13:47:57
+Then recursion is…
+
+[Tan Ka Heng Anthony] 13:47:59
+Uh, I do task A first.
+
+[Tan Ka Heng Anthony] 13:48:01
+That I go on to task B.
+
+[Tan Ka Heng Anthony] 13:48:02
+But I felt that we need to revisit task A. So I go back one step.
+
+[Tan Ka Heng Anthony] 13:48:07
+That's recursion.
+
+[Tan Ka Heng Anthony] 13:48:09
+Does anyone have any, um…
+
+[Tan Ka Heng Anthony] 13:48:12
+Like.
+
+[Tan Ka Heng Anthony] 13:48:13
+Anything that they want to say about this, or…
+
+[Tan Ka Heng Anthony] 13:48:15
+Can we move on?
+
+[LUIS SHAO HUI VOO] 13:48:20
+I think we are all good on this one.
+
+[Tan Ka Heng Anthony] 13:48:23
+Okay, Ken. Then we go to the agreement process, acquisition process and supply process.
+
+[Tan Ka Heng Anthony] 13:48:29
+We covered this in the last try, but we quickly recap.
+
+[Tan Ka Heng Anthony] 13:48:33
+Because we believe
+
+[Tan Ka Heng Anthony] 13:48:35
+I believe that, uh, it's.
+
+[Tan Ka Heng Anthony] 13:48:38
+Is actually relevant to SAP since.
+
+[Tan Ka Heng Anthony] 13:48:42
+We're given a fixed budget to
+
+[Tan Ka Heng Anthony] 13:48:45
+purchase and acquire supplies to create the arena.
+
+[Tan Ka Heng Anthony] 13:48:54
+So, um, the agreement process, right?
+
+[Tan Ka Heng Anthony] 13:48:57
+Is it comes in many shapes and forms. Sometimes it's a
+
+[Tan Ka Heng Anthony] 13:49:01
+A written contract. Sometimes it's a verbal agreement.
+
+[Tan Ka Heng Anthony] 13:49:04
+But the essence of it is.
+
+[Tan Ka Heng Anthony] 13:49:08
+Or rather, the core idea is that.
+
+[Tan Ka Heng Anthony] 13:49:10
+It's an agreement between two parties.
+
+[Tan Ka Heng Anthony] 13:49:13
+We've done specifics of like.
+
+[Tan Ka Heng Anthony] 13:49:16
+What each party is supposed to do.
+
+[Tan Ka Heng Anthony] 13:49:19
+Are you supposed to provide.
+
+[LUIS SHAO HUI VOO] 13:49:22
+Yes, so in this case, the agreement process can be seen
+
+[LUIS SHAO HUI VOO] 13:49:29
+in, delivering the deliverables to pass this SCP module
+
+[LUIS SHAO HUI VOO] 13:49:36
+So, this is both written and both mentioned by Professor Parksun already in class
+
+[LUIS SHAO HUI VOO] 13:49:43
+that we have to pass every single component of this SEP in order to pass this module
+
+[LUIS SHAO HUI VOO] 13:49:51
+Meaning to say that we cannot ignore, like, certain parts of the module and still pass. We have to pass every single thing
+
+[RSE Chee Hui Tan] 13:50:00
+the style lifecycle.
+
+[LUIS SHAO HUI VOO] 13:50:00
+Yes.
+
+[RSE Chee Hui Tan] 13:50:02
+Uh, furthermore, uh, Prof Pak Sand said that…
+
+[RSE Chee Hui Tan] 13:50:05
+Uh, there'll be… that…
+
+[RSE Chee Hui Tan] 13:50:08
+the amount of things that I need to do, like…
+
+[RSE Chee Hui Tan] 13:50:11
+minutes of…
+
+[RSE Chee Hui Tan] 13:50:14
+minutes and…
+
+[RSE Chee Hui Tan] 13:50:16
+attendance for certain staff, that one is all very important, so…
+
+[RSE Chee Hui Tan] 13:50:20
+That is just part of the agreement that he has with us as well, lah.
+
+[RSE Chee Hui Tan] 13:50:23
+So this is just one of those few things that we have to take note of, so…
+
+[Tan Ka Heng Anthony] 13:50:31
+Yes.
+
+[Tan Ka Heng Anthony] 13:50:32
+Okay, uh, do we have any questions about agreement process? If not,
+
+[Tan Ka Heng Anthony] 13:50:38
+We can move to acquisition process.
+
+[RSE Chee Hui Tan] 13:50:42
+No questions.
+
+[Tan Ka Heng Anthony] 13:50:44
+Okay, Ken. So for acquisition process, right, I am still not familiar, not fully familiar with this, so I need someone else to.
+
+[Tan Ka Heng Anthony] 13:50:52
+Help explain to me.
+
+[RSE Chee Hui Tan] 13:50:55
+I think the acquisition process, right, can be in such a way that
+
+[RSE Chee Hui Tan] 13:51:00
+Uh, since, uh…
+
+[RSE Chee Hui Tan] 13:51:01
+what was it? Profo Harness told us that we have a budget of $500.
+
+[RSE Chee Hui Tan] 13:51:06
+But I'm not constrained to…
+
+[RSE Chee Hui Tan] 13:51:09
+materials.
+
+[RSE Chee Hui Tan] 13:51:10
+So, for those $500, it's primarily used on the arena, because
+
+[RSE Chee Hui Tan] 13:51:17
+uh, not supposed to…
+
+[RSE Chee Hui Tan] 13:51:19
+mess around with the Libo robot, because that one, $7,000 USD.
+
+[RSE Chee Hui Tan] 13:51:25
+You ready? So…
+
+[RSE Chee Hui Tan] 13:51:29
+Uh, it's mainly based on the arena.
+
+[RSE Chee Hui Tan] 13:51:32
+Uh, there is the priceless?
+
+[RSE Chee Hui Tan] 13:51:35
+It's based on what you find on the internet, and then if you make the purchase, you need to provide a proof of purchase.
+
+[RSE Chee Hui Tan] 13:51:42
+and put it and compile it until, like, near the end of the project, then you submit.
+
+[RSE Chee Hui Tan] 13:51:49
+for 3D printing-wise, the price… what we need to confirm with the prof…
+
+[RSE Chee Hui Tan] 13:51:54
+Johannes, because that one, currently is…
+
+[RSE Chee Hui Tan] 13:51:58
+we do not know, as he wants to moderate the usage of 3D printing.
+
+[RSE Chee Hui Tan] 13:52:02
+But other than that, I think it should still be part of the $500 lah. You will deduct from there.
+
+[LUIS SHAO HUI VOO] 13:52:13
+Yes, so… in short, it's just,
+
+[LUIS SHAO HUI VOO] 13:52:18
+the procedures to purchase the items as needed within that $500 budget.
+
+[LUIS SHAO HUI VOO] 13:52:24
+As for the 3D printing
+
+[LUIS SHAO HUI VOO] 13:52:27
+Yes.
+
+[LUIS SHAO HUI VOO] 13:52:28
+He wants
+
+[LUIS SHAO HUI VOO] 13:52:30
+Professor Joannos wants to regulate it so he will be the one providing the filament and I'm pretty sure that it also means that we have to use the
+
+[LUIS SHAO HUI VOO] 13:52:41
+printers in school
+
+[LUIS SHAO HUI VOO] 13:52:42
+But we can discuss it with him regarding on how that can be worked out, because
+
+[LUIS SHAO HUI VOO] 13:52:51
+I was intending for us to
+
+[LUIS SHAO HUI VOO] 13:52:54
+Use the filament
+
+[LUIS SHAO HUI VOO] 13:52:57
+print on the bigger printer
+
+[JOVEN TOH] 13:53:02
+I'd like to add on also that since Johannes also has given us the $500 budget, but we are not fully constrained with the $500, since
+
+[JOVEN TOH] 13:53:10
+He didn't, uh, regard saying that if we are over budget also on $500, we can also
+
+[JOVEN TOH] 13:53:16
+go out from our own pockets to add on additional…
+
+[JOVEN TOH] 13:53:19
+funding, if need be.
+
+[Tan Ka Heng Anthony] 13:53:21
+Best not too long, best not too long.
+
+[Tan Ka Heng Anthony] 13:53:28
+Anyways, on the acquisition process, right, from what I understand from
+
+[Tan Ka Heng Anthony] 13:53:33
+Um, while you guys have mentioned.
+
+[Tan Ka Heng Anthony] 13:53:35
+Is, uh, how we're gonna choose the
+
+[Tan Ka Heng Anthony] 13:53:38
+Supplier, right? Like we are based on the budget that we have.
+
+[Tan Ka Heng Anthony] 13:53:44
+Yeah, based on the budget that we have, we need to…
+
+[LUIS SHAO HUI VOO] 13:53:45
+Yes
+
+[Tan Ka Heng Anthony] 13:53:47
+I'll select the appropriate supplier tool.
+
+[Tan Ka Heng Anthony] 13:53:50
+purchase the items that we need.
+
+[Tan Ka Heng Anthony] 13:53:53
+And then we also need to make sure that whatever that we plan to purchase.
+
+[Tan Ka Heng Anthony] 13:53:58
+also meets the requirements.
+
+[LUIS SHAO HUI VOO] 13:54:00
+Yes, we have to seek approval before purchasing as well
+
+[Tan Ka Heng Anthony] 13:54:05
+Yes, sir.
+
+[RSE Chee Hui Tan] 13:54:06
+As for the materials of what we're gonna choose, that is outdo…
+
+[RSE Chee Hui Tan] 13:54:10
+Uh, we haven't decided yet, because we…
+
+[RSE Chee Hui Tan] 13:54:13
+I don't exactly, uh…
+
+[RSE Chee Hui Tan] 13:54:15
+come up with the idea of what we want to do for the arena, fully lah.
+
+[RSE Chee Hui Tan] 13:54:19
+We have a rough idea of what we want to do, but not…
+
+[RSE Chee Hui Tan] 13:54:23
+100% yet, so we'll…
+
+[RSE Chee Hui Tan] 13:54:26
+uh… to make the decision when we get closer to the actual…
+
+[RSE Chee Hui Tan] 13:54:31
+to the more concrete of what we want to do for…
+
+[LUIS SHAO HUI VOO] 13:54:36
+Yes, so for the arena planning, I think we can
+
+[LUIS SHAO HUI VOO] 13:54:43
+Hold on to it for now until you see the actual arena
+
+[RSE Dino Yeo Guo Wei] 13:54:46
+Yes.
+
+[RSE Dino Yeo Guo Wei] 13:54:47
+they'll be one of the milestones next week, which will mention later on in the meeting.
+
+[LUIS SHAO HUI VOO] 13:54:48
+There'll be
+
+[RSE Dino Yeo Guo Wei] 13:54:55
+Uh, I also want to add on to the… with regards to the…
+
+[RSE Dino Yeo Guo Wei] 13:55:01
+purchasing of items. So, like, with regards to the approval, we also need to give, uh, proper reasoning.
+
+[RSE Dino Yeo Guo Wei] 13:55:09
+on what items we buy.
+
+[RSE Dino Yeo Guo Wei] 13:55:11
+If not, uh, then you will not be approved, because it does not fit the requirements.
+
+[LUIS SHAO HUI VOO] 13:55:18
+Yeah, so… hence, we need to seek for permission as well, because
+
+[LUIS SHAO HUI VOO] 13:55:23
+Professor Johannes will be the one to decide and
+
+[LUIS SHAO HUI VOO] 13:55:29
+I think validate. Yeah, yeah, yeah, validate. Yes
+
+[Tan Ka Heng Anthony] 13:55:34
+By when?
+
+[Tan Ka Heng Anthony] 13:55:35
+Okay, for the arena, right, I was thinking that we finish it.
+
+[Tan Ka Heng Anthony] 13:55:41
+Or at least by…
+
+[Tan Ka Heng Anthony] 13:55:42
+Two weeks from now?
+
+[Tan Ka Heng Anthony] 13:55:45
+Because it's going to be pretty rough.
+
+[Tan Ka Heng Anthony] 13:55:48
+We only have until the 8th week.
+
+[Tan Ka Heng Anthony] 13:55:50
+For Viva? Oh, we know.
+
+[Tan Ka Heng Anthony] 13:55:52
+We need to set up the arena by the eighth week, right?
+
+[RSE Dino Yeo Guo Wei] 13:55:57
+Yes, that's correct.
+
+[RSE Dino Yeo Guo Wei] 13:56:01
+And the earlier we set up, the earlier we can test our robot also.
+
+[Tan Ka Heng Anthony] 13:56:06
+Okay, then I don't think we have any other questions for acquisition process, right?
+
+[Tan Ka Heng Anthony] 13:56:12
+I think everyone is clearer. Okay, so everyone is clear. All right.
+
+[Tan Ka Heng Anthony] 13:56:17
+Since everybody not on their hits.
+
+[Tan Ka Heng Anthony] 13:56:18
+Okay, then the supply process.
+
+[Tan Ka Heng Anthony] 13:56:22
+Supply possesses…
+
+[Tan Ka Heng Anthony] 13:56:24
+Um, I'm not really too sure, so either. Like, the entire agreement process, the 2.3.2.
+
+[Tan Ka Heng Anthony] 13:56:28
+I haven't really read fully, so.
+
+[Tan Ka Heng Anthony] 13:56:32
+Can someone else discuss about the supply process? Like explain to me.
+
+[RSE Dino Yeo Guo Wei] 13:57:05
+I think we take a minute to read through first.
+
+[Tan Ka Heng Anthony] 13:57:10
+Okay, Ken.
+
+[LUIS SHAO HUI VOO] 13:57:24
+Okay, so from what I'm seeing, the supply process is
+
+[LUIS SHAO HUI VOO] 13:57:29
+The purpose of the supply process is to provide an acquirer with a product or service that meets its grid requirements. So I believe that this is
+
+[LUIS SHAO HUI VOO] 13:57:38
+On our end
+
+[LUIS SHAO HUI VOO] 13:57:40
+Like it serves as a
+
+[LUIS SHAO HUI VOO] 13:57:44
+confirmation or justification to purchasing some of the items that is needed for our arena.
+
+[LUIS SHAO HUI VOO] 13:57:54
+Yeah, it's
+
+[LUIS SHAO HUI VOO] 13:57:56
+That simple.
+
+[RSE Chee Hui Tan] 13:57:56
+the arena
+
+[Ng Chee Rui, Ethan] 13:57:57
+All good.
+
+[Ng Chee Rui, Ethan] 13:57:57
+I see it as, like, the execution of, like, the agreement process, because when we agree to, like,
+
+[RSE Chee Hui Tan] 13:57:58
+I think…
+
+[Ng Chee Rui, Ethan] 13:58:04
+acquire a certain material after going through whatever approval process we need. Then, through the…
+
+[Ng Chee Rui, Ethan] 13:58:11
+That should
+
+[Ng Chee Rui, Ethan] 13:58:12
+So, going through the process, you'll be able to…
+
+[Ng Chee Rui, Ethan] 13:58:15
+acquire the materials you need, lah.
+
+[RSE Chee Hui Tan] 13:58:21
+I think it's also about how we choose, uh, where we want to buy our supplies also.
+
+[RSE Chee Hui Tan] 13:58:27
+But, uh, depending on the quality and whatnot, I think it's one of the considerations you have to take in.
+
+[RSE Chee Hui Tan] 13:58:33
+But part of what it is is…
+
+[RSE Chee Hui Tan] 13:58:37
+Uh, based on Incore is that…
+
+[RSE Chee Hui Tan] 13:58:39
+is usually for mass production, because they want to regulate and get a good price.
+
+[RSE Chee Hui Tan] 13:58:44
+Uh, this one… that partway of mass production might not be applicable to us, but the quality-wise, it should be applicable as well.
+
+[LUIS SHAO HUI VOO] 13:58:53
+I agree.
+
+[Tan Ka Heng Anthony] 13:59:09
+Okay, so from what I understand, right, it's…
+
+[Tan Ka Heng Anthony] 13:59:15
+We is from the supplier's point of view that entering could say for this particular section.
+
+[Tan Ka Heng Anthony] 13:59:21
+And so, right, we need to turn it into our point of view, right?
+
+[Tan Ka Heng Anthony] 13:59:26
+Uh, so in this case, it is.
+
+[Tan Ka Heng Anthony] 13:59:29
+To make, to get ready to, uh,
+
+[Tan Ka Heng Anthony] 13:59:32
+provide the materials need. It's for them to provide the materials to us.
+
+[Tan Ka Heng Anthony] 13:59:36
+And in this case, right, it is whatever goods that request.
+
+[Tan Ka Heng Anthony] 13:59:41
+And then…
+
+[Tan Ka Heng Anthony] 13:59:43
+They need to respond to our query for the supply of products or service. So in this case.
+
+[Tan Ka Heng Anthony] 13:59:49
+In this case, right, uh, since we're gonna purchase, like,
+
+[Tan Ka Heng Anthony] 13:59:53
+Something like the props from art friends.
+
+[Tan Ka Heng Anthony] 13:59:57
+The cashier, the salespeople.
+
+[Tan Ka Heng Anthony] 13:59:59
+From art's friends, we'll need to
+
+[Tan Ka Heng Anthony] 14:00:03
+Like, respond to our query for
+
+[Tan Ka Heng Anthony] 14:00:05
+said product and then.
+
+[Tan Ka Heng Anthony] 14:00:08
+Need to, uh…
+
+[Tan Ka Heng Anthony] 14:00:10
+Negotiate appropriately.
+
+[Tan Ka Heng Anthony] 14:00:12
+for the product pricing, but it's already fixed pricing.
+
+[Tan Ka Heng Anthony] 14:00:18
+It's all right, that one is okay. Uh, the agreement is the price tag, I guess.
+
+[Tan Ka Heng Anthony] 14:00:23
+and the quality.
+
+[Tan Ka Heng Anthony] 14:00:24
+And then the executing of the agreement, right, is
+
+[Tan Ka Heng Anthony] 14:00:28
+the exchange of, uh…
+
+[Tan Ka Heng Anthony] 14:00:31
+cash and the protocol.
+
+[LUIS SHAO HUI VOO] 14:00:34
+It is not something that we, like, have to communicate with the art firm because it's already like there already. So it's just something that we
+
+[LUIS SHAO HUI VOO] 14:00:44
+ticket
+
+[LUIS SHAO HUI VOO] 14:00:45
+face value for whatever it is, there's no need to communicate with our friend, like, personnel or anything like this.
+
+[LUIS SHAO HUI VOO] 14:00:52
+But what you say is technically correct, and I agree with it.
+
+[Tan Ka Heng Anthony] 14:00:56
+Okay, from what I also read, right, there's a little bit of a something that…
+
+[Tan Ka Heng Anthony] 14:01:01
+I'm not too sure about.
+
+[Tan Ka Heng Anthony] 14:01:03
+Under the portion where they say respond to request for supply of products or service.
+
+[Tan Ka Heng Anthony] 14:01:08
+They say select appropriate acquirers willing to conduct adequate negotiations, meet financial.
+
+[Tan Ka Heng Anthony] 14:01:16
+financial obligations and willingness to out.
+
+[Tan Ka Heng Anthony] 14:01:19
+I'll maintain open communications throughout the supply process.
+
+[Tan Ka Heng Anthony] 14:01:24
+Is this, like, by any chance assuming that we are the supplier?
+
+[Tan Ka Heng Anthony] 14:01:28
+And then we're supplying our products.
+
+[Tan Ka Heng Anthony] 14:01:31
+to a customer.
+
+[Tan Ka Heng Anthony] 14:01:34
+Or someone else.
+
+[RSE Chee Hui Tan] 14:01:35
+Uh, I don't think that will be the case, because…
+
+[RSE Chee Hui Tan] 14:01:39
+Uh, what we are trying to do
+
+[RSE Chee Hui Tan] 14:01:41
+is that, like, the one demanding the supply.
+
+[RSE Chee Hui Tan] 14:01:44
+So, we are trying to, uh, get on, in quote-unquote, good terms with
+
+[RSE Chee Hui Tan] 14:01:49
+the other party, which is the supplier.
+
+[RSE Chee Hui Tan] 14:01:50
+So that we can get… we can maintain a steady stream of the supply of what we need.
+
+[RSE Chee Hui Tan] 14:01:56
+And also, such in a way that they can… if there's any, like, uh, issues with the product,
+
+[RSE Chee Hui Tan] 14:02:02
+For example, is this route of products that come is effective.
+
+[RSE Chee Hui Tan] 14:02:07
+Uh, they have a… we can communicate with them, and there's a backup then.
+
+[RSE Chee Hui Tan] 14:02:13
+in place, or something that we can work out.
+
+[RSE Chee Hui Tan] 14:02:15
+So that it doesn't affect the…
+
+[RSE Chee Hui Tan] 14:02:18
+company that, uh, which is our stake, which is our company, ah. But in this case, for us, I don't think it's that much of an issue, because
+
+[RSE Chee Hui Tan] 14:02:25
+Uh, we are doing only, like, uh, small amounts, and also…
+
+[RSE Chee Hui Tan] 14:02:31
+Uh, it's not long-term lah. So, in this case, there shouldn't be much of an agreement.
+
+[RSE Chee Hui Tan] 14:02:36
+But just of a, how do we choose our supply?
+
+[RSE Chee Hui Tan] 14:02:39
+And the…
+
+[RSE Chee Hui Tan] 14:02:41
+And how issues of supply will be based on the quality and price lah, so that's about it.
+
+[JOVEN TOH] 14:02:48
+To further add on, I just believe that this supply process should mainly focus on the online one, like online shopping, since
+
+[JOVEN TOH] 14:02:54
+Some online shopping distributions, they have, like,
+
+[JOVEN TOH] 14:02:57
+multiple different types of products and different types of quality sometimes even takes a while for shipping to come in.
+
+[JOVEN TOH] 14:03:02
+So, uh, I think the supply process mainly
+
+[JOVEN TOH] 14:03:04
+points towards the online side of the shopping.
+
+[JOVEN TOH] 14:03:07
+Since we all know the Atom Friends and…
+
+[JOVEN TOH] 14:03:10
+other, like, markets also, right? They have a face value price, then it's…
+
+[JOVEN TOH] 14:03:14
+PrettyFix already. Online, you can still be able to negotiate.
+
+[JOVEN TOH] 14:03:17
+And more freely, but sometimes the quality is not there.
+
+[JOVEN TOH] 14:03:20
+And they might not be reliable in some cases.
+
+[Tan Ka Heng Anthony] 14:03:24
+Oh, okay, okay, I understand now. So it's like…
+
+[Tan Ka Heng Anthony] 14:03:28
+Uh, contacting a salesperson online through email and then, like, requesting for, like,
+
+[Tan Ka Heng Anthony] 14:03:33
+A quotation, and then, like, making sure that
+
+[Tan Ka Heng Anthony] 14:03:37
+And from the supplier side, right?
+
+[Tan Ka Heng Anthony] 14:03:39
+uh, assess whether or not they're capable of making the payment and then.
+
+[Tan Ka Heng Anthony] 14:03:42
+Whether or not they are willing, whether or not they, in this case, us, right?
+
+[Tan Ka Heng Anthony] 14:03:47
+Since we are requesting a service from them,
+
+[Tan Ka Heng Anthony] 14:03:51
+To be, uh, able to…
+
+[Tan Ka Heng Anthony] 14:03:53
+maintain an open communication.
+
+[Tan Ka Heng Anthony] 14:03:56
+Throughout the entire supply, all the way up until they have delivered the service or product that they requested.
+
+[Tan Ka Heng Anthony] 14:04:02
+Okay, okay, I get it. Uh, does anyone have any other, like, questions or anything to add on?
+
+[Tan Ka Heng Anthony] 14:04:11
+Okay, so everybody shake their heads, which is…
+
+[Tan Ka Heng Anthony] 14:04:15
+Which means that they all don't have anything else to add on.
+
+[Tan Ka Heng Anthony] 14:04:17
+So I think we can move on to the next part of the SE recap.
+
+[Tan Ka Heng Anthony] 14:04:21
+No, not really, not recap, since this one is something that we actually never touched on last try.
+
+[Tan Ka Heng Anthony] 14:04:29
+2.3.
+
+[Tan Ka Heng Anthony] 14:04:34
+the organizational project enabling processes.
+
+[Tan Ka Heng Anthony] 14:04:38
+So, a lifecycle model managing management process.
+
+[Tan Ka Heng Anthony] 14:04:52
+will take a bit to read it.
+
+[LUIS SHAO HUI VOO] 14:04:53
+I
+
+[LUIS SHAO HUI VOO] 14:04:59
+I'm just skimming through like 2.3 stuff, like lifecycle management process onwards. And I feel like it's a little bit superficial. Okay, I wouldn't say it's superficial, but I would say that it's
+
+[LUIS SHAO HUI VOO] 14:05:14
+It's too big of a process to be implemented to whatever we are doing. Meaning to say that it's a little bit
+
+[LUIS SHAO HUI VOO] 14:05:23
+Deep.
+
+[LUIS SHAO HUI VOO] 14:05:25
+Or maybe even too big to apply to whatever we are doing, because whatever we are doing to simply
+
+[RSE Chee Hui Tan] 14:05:29
+always, like, too upscale, is it?
+
+[LUIS SHAO HUI VOO] 14:05:32
+Two upscale correct
+
+[LUIS SHAO HUI VOO] 14:05:34
+Like, whatever we are doing is considered
+
+[LUIS SHAO HUI VOO] 14:05:37
+like on the smaller scale compared to what this process is actually meant for. I believe that these processes onwards is meant for bigger projects.
+
+[LUIS SHAO HUI VOO] 14:05:46
+And
+
+[LUIS SHAO HUI VOO] 14:05:47
+Less for hours
+
+[LUIS SHAO HUI VOO] 14:05:50
+smaller scale project like this
+
+[LUIS SHAO HUI VOO] 14:05:53
+Right now.
+
+[Tan Ka Heng Anthony] 14:05:54
+Okay.
+
+[Tan Ka Heng Anthony] 14:05:55
+But I think it'll still be good to understand what it's talking about so that
+
+[LUIS SHAO HUI VOO] 14:05:58
+Yeah.
+
+[Tan Ka Heng Anthony] 14:06:02
+Uh, when people ask us why we're not applying any of these organizational.
+
+[Tan Ka Heng Anthony] 14:06:07
+project-enabling processes.
+
+[Tan Ka Heng Anthony] 14:06:09
+Or rather, uh, we're only specifically talking about the lifecycle model management process, right?
+
+[LUIS SHAO HUI VOO] 14:06:17
+Onwards as well, other processes below it as well.
+
+[Tan Ka Heng Anthony] 14:06:20
+Okay, so the entirety of 2.3.3, right? So
+
+[Tan Ka Heng Anthony] 14:06:24
+I think it'll still be good for us to understand this entire section so that.
+
+[Tan Ka Heng Anthony] 14:06:30
+When people ask us why we are not applying it.
+
+[Tan Ka Heng Anthony] 14:06:33
+We can confidently tell them why we are not applying it.
+
+[LUIS SHAO HUI VOO] 14:06:37
+Yes, so let's take a look at these processes and their definition and see whether
+
+[LUIS SHAO HUI VOO] 14:06:44
+They can be applied to our project or not. And before we continue, we have
+
+[LUIS SHAO HUI VOO] 14:06:54
+Around 9 minutes left to this meeting, I think we should transfer our meeting to a new call right now. Okay. But before that, let me save the transcript and see whether if the transcript is being saved or not.
+
+[Tan Ka Heng Anthony] 14:07:00
+Okay, okay.
+
+[LUIS SHAO HUI VOO] 14:07:52
+Okay, no worries, I've gotten the transcript already, the file. I will send over to everyone, and we can end our call right here, right now.
+
+[JOVEN TOH] 14:08:05
+go to Nickelbeck
+
+[Tan Ka Heng Anthony] 14:08:06
+Okay, I also have a backup here.
+
+[LUIS SHAO HUI VOO] 14:08:07
+Yeah.
+
+[LUIS SHAO HUI VOO] 14:08:09
+So, Anthony, as a backup, I have a copy
+
+[LUIS SHAO HUI VOO] 14:08:12
+I think we are okay.
+
+[Tan Ka Heng Anthony] 14:08:13
+Okay, I think we take five and then like
+
+[Tan Ka Heng Anthony] 14:08:16
+We'll continue or…
+
+[LUIS SHAO HUI VOO] 14:08:17
+Okay,
+
+[LUIS SHAO HUI VOO] 14:08:18
+Hmm, yes, you can take 5.
+
+[Ng Chee Rui, Ethan] 14:08:18
+If I just organized the stuffer, then we can come back.
+
+[LUIS SHAO HUI VOO] 14:08:24
+Yes
+
