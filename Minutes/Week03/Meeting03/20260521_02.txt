@@ -1,0 +1,1176 @@
+[LUIS SHAO HUI VOO] 14:40:57
+Okay, so… this meeting is the fallout from our previous meeting just now, because of the 40-minute timer.
+
+[LUIS SHAO HUI VOO] 14:41:12
+Okay, for the record just now, but what I said was, this meeting is followed to our previous meeting just now because of the 40 minute timer.
+
+[LUIS SHAO HUI VOO] 14:41:25
+So, to pick up where we left off from, we were talking about
+
+[LUIS SHAO HUI VOO] 14:41:29
+Systems engineering processes, right?
+
+[LUIS SHAO HUI VOO] 14:41:33
+Okay
+
+[Tan Ka Heng Anthony] 14:41:44
+We're talking about 2.3. So the organizational management processes.
+
+[RSE Chee Hui Tan] 14:41:57
+Uh, I think it's not that relevant at the moment.
+
+[RSE Chee Hui Tan] 14:41:59
+But that one, I think we can, uh…
+
+[RSE Chee Hui Tan] 14:42:02
+bring it up to Prof Pakistan.
+
+[RSE Chee Hui Tan] 14:42:05
+So…
+
+[RSE Chee Hui Tan] 14:42:07
+Because we need to ask him also, like, there's a lot of things we might want to check with him, like…
+
+[RSE Chee Hui Tan] 14:42:13
+anything outside of OpsCorn useful or not, but…
+
+[RSE Chee Hui Tan] 14:42:19
+Or… not just uscon, OSCON and…
+
+[RSE Chee Hui Tan] 14:42:21
+Con ops is useful or not. So, uh…
+
+[RSE Chee Hui Tan] 14:42:26
+this… about that, right? We need to just ask him.
+
+[RSE Chee Hui Tan] 14:42:30
+Anything else you all want to check in, or not?
+
+[Tan Ka Heng Anthony] 14:42:40
+We should probably at least cover what it is about all this organizational management processes.
+
+[Tan Ka Heng Anthony] 14:42:46
+Because when we ask Him,
+
+[Tan Ka Heng Anthony] 14:42:48
+He will most likely ask us, right?
+
+[Tan Ka Heng Anthony] 14:42:51
+why we think it's not applicable.
+
+[Tan Ka Heng Anthony] 14:42:54
+And then when we give him our reasons, right?
+
+[Tan Ka Heng Anthony] 14:42:57
+He asks us for, like, the definitions of it.
+
+[Tan Ka Heng Anthony] 14:42:59
+So we should at least talk about it first, just so that everyone is on the same page when we bring up this consultation to him.
+
+[LUIS SHAO HUI VOO] 14:43:08
+So I want to make comparisons like between the project that we are doing and the processes that we are talking about, right?
+
+[LUIS SHAO HUI VOO] 14:43:16
+And why and reason it with you, why it is not applicable, is it
+
+[LUIS SHAO HUI VOO] 14:43:25
+Okay, I think we can do that. We will start off with
+
+[LUIS SHAO HUI VOO] 14:43:33
+The first process is second
+
+[RSE Chee Hui Tan] 14:44:35
+The first part should be the lifecycle process.
+
+[RSE Chee Hui Tan] 14:44:39
+Oh, what's that shit called? Lifecycle Model Management Process. My bad.
+
+[RSE Chee Hui Tan] 14:44:45
+Uh…
+
+[RSE Chee Hui Tan] 14:44:45
+I think it's not exactly relevant, because it's quite small-scale, but…
+
+[RSE Chee Hui Tan] 14:44:51
+is more on…
+
+[RSE Chee Hui Tan] 14:44:55
+What is the processes we do to get to the final…
+
+[RSE Chee Hui Tan] 14:44:59
+evaluation, in this case for us.
+
+[RSE Chee Hui Tan] 14:45:02
+So, for us, it might be that…
+
+[RSE Chee Hui Tan] 14:45:05
+we need to build the…
+
+[RSE Chee Hui Tan] 14:45:08
+arena to a certain extent, before we can start testing the robot.
+
+[RSE Chee Hui Tan] 14:45:12
+So, we need to do both…
+
+[RSE Chee Hui Tan] 14:45:15
+the arena first, then get started with Ross, who…
+
+[RSE Chee Hui Tan] 14:45:20
+And then, after that, we get to a point where we can test both the robot on the
+
+[RSE Chee Hui Tan] 14:45:27
+and the arena together to see if we can do the robot and the arena at the same time.
+
+[RSE Chee Hui Tan] 14:45:31
+From there, refine, and then…
+
+[RSE Chee Hui Tan] 14:45:34
+get to a stage where you can…
+
+[RSE Chee Hui Tan] 14:45:36
+go through other people's arena.
+
+[RSE Chee Hui Tan] 14:45:39
+And then see if we can put a quote, win the competition.
+
+[Tan Ka Heng Anthony] 14:45:53
+Yeah.
+
+[Tan Ka Heng Anthony] 14:45:54
+Apologies, I need to go and take my charger, of course.
+
+[Tan Ka Heng Anthony] 14:45:57
+I just realized I went from, like, 40-something percent to 26%.
+
+[Tan Ka Heng Anthony] 14:46:03
+You all can complete the meeting, I'll just catch up later.
+
+[RSE Dino Yeo Guo Wei] 14:46:03
+Okay.
+
+[RSE Dino Yeo Guo Wei] 14:46:11
+Uh, so to add on, uh, with regards to why…
+
+[RSE Dino Yeo Guo Wei] 14:46:15
+If you think it's not relevant, it's because…
+
+[RSE Dino Yeo Guo Wei] 14:46:17
+Like, this… for this, uh, process itself,
+
+[RSE Dino Yeo Guo Wei] 14:46:20
+It's more on an organizing… organizational level, which
+
+[RSE Dino Yeo Guo Wei] 14:46:25
+It's not really the focus of our project.
+
+[JOVEN TOH] 14:46:35
+I believe that this life cycle model management process can be sort of scaled down now. So, earlier that's what Giue says, basically from the arena, then to the robot, then to the competition.
+
+[JOVEN TOH] 14:46:47
+I feel like this is, like, the overall view of how the lifecycle should be.
+
+[RSE Dino Yeo Guo Wei] 14:46:52
+Oh, I didn't…
+
+[RSE Chee Hui Tan] 14:47:07
+Uh, next one would be…
+
+[RSE Chee Hui Tan] 14:47:13
+Which one?
+
+[RSE Chee Hui Tan] 14:47:14
+The next one will be infrastructure management process. Is that what you can take a look. But I'm not sure if it's very relevant.
+
+[RSE Chee Hui Tan] 14:47:23
+Of course, I'm not sure what infrastructures we have in place at the moment, but we can look into it.
+
+[Ng Chee Rui, Ethan] 14:47:29
+Wouldn't it be the…
+
+[Ng Chee Rui, Ethan] 14:47:31
+The flot itself, but this one, we can't exactly confirm until we get the…
+
+[Ng Chee Rui, Ethan] 14:47:37
+actual plot itself.
+
+[Ng Chee Rui, Ethan] 14:47:40
+And I think we prof, Johannes has not confirmed, even though I think you'll be likely that
+
+[Ng Chee Rui, Ethan] 14:47:46
+It will still retain that 4x4 block structure, right? So…
+
+[Ng Chee Rui, Ethan] 14:47:50
+If that doesn't change, by all means, but…
+
+[Ng Chee Rui, Ethan] 14:47:54
+I think in terms of infrastructure, there's not really much else outside of the plot.
+
+[Ng Chee Rui, Ethan] 14:48:00
+itself that we need to design, then that's about it.
+
+[JOVEN TOH] 14:48:06
+Yeah, it's not fully confirmed if you're gonna be using a 4x3 or 4x4 yet.
+
+[LUIS SHAO HUI VOO] 14:48:13
+But what we can
+
+[LUIS SHAO HUI VOO] 14:48:16
+Fine or work reference, at least talk about the infrastructure elements, like the
+
+[LUIS SHAO HUI VOO] 14:48:23
+facilities, the tools, the hardware, the software, the services, and the whatnot that makes the
+
+[LUIS SHAO HUI VOO] 14:48:31
+Infrastructure
+
+[LUIS SHAO HUI VOO] 14:48:33
+So in this case, the information that we have gotten regarding about the arena for each plot is
+
+[LUIS SHAO HUI VOO] 14:48:40
+Every single plot is about 1.5 meters square
+
+[LUIS SHAO HUI VOO] 14:48:45
+So that's one of the examples of the
+
+[LUIS SHAO HUI VOO] 14:48:50
+infrastructure elements
+
+[LUIS SHAO HUI VOO] 14:48:54
+And the height limit as well.
+
+[LUIS SHAO HUI VOO] 14:48:58
+And just
+
+[LUIS SHAO HUI VOO] 14:48:59
+These are just one of the few examples I can give regarding about the infrastructure elements
+
+[LUIS SHAO HUI VOO] 14:49:06
+I think it is to be expanded on
+
+[LUIS SHAO HUI VOO] 14:49:11
+But yeah, that's for now
+
+[Ng Chee Rui, Ethan] 14:49:15
+Does the infrastructure also include?
+
+[Ng Chee Rui, Ethan] 14:49:16
+like, the Limo robot itself.
+
+[LUIS SHAO HUI VOO] 14:49:21
+I believe, yes
+
+[Ng Chee Rui, Ethan] 14:49:23
+Then you can also include the ROS2 environment and whatnot.
+
+[Ng Chee Rui, Ethan] 14:49:28
+As well, because technically, by infrastructure, you will also include the…
+
+[Ng Chee Rui, Ethan] 14:49:34
+like, from what it says, uh…
+
+[Ng Chee Rui, Ethan] 14:49:38
+You can establish a resource management to…
+
+[Ng Chee Rui, Ethan] 14:50:00
+Yeah, sorry, the resource management also needs to be done for infrastructure management, so I would assume that anything to do with the Limo robot also needs to be accounted for as well.
+
+[RSE Dino Yeo Guo Wei] 14:50:12
+So, just to clarify, right, uh, infrastructure management, is it done by us, or is it more of, uh…
+
+[RSE Dino Yeo Guo Wei] 14:50:20
+level above.
+
+[Tan Ka Heng Anthony] 14:50:21
+Yeah, that's correct.
+
+[Tan Ka Heng Anthony] 14:50:22
+It should be managed by us because we are in charge of the project.
+
+[Tan Ka Heng Anthony] 14:50:27
+So we need to determine what infrastructure we are using.
+
+[Tan Ka Heng Anthony] 14:50:31
+And then we need to check whether or not.
+
+[Tan Ka Heng Anthony] 14:50:34
+It is sufficient documentation, sufficient information that we can utilize to
+
+[Tan Ka Heng Anthony] 14:50:40
+Use it effectively.
+
+[Tan Ka Heng Anthony] 14:50:41
+Like, in a sense of whether or not we can.
+
+[Tan Ka Heng Anthony] 14:50:46
+Uh, whether or not there's sufficient.
+
+[Tan Ka Heng Anthony] 14:50:48
+of risk taken that.
+
+[Tan Ka Heng Anthony] 14:50:50
+We can consider all…
+
+[Tan Ka Heng Anthony] 14:50:53
+put aside. You understand what I mean like the risk management is within acceptable boundaries.
+
+[RSE Chee Hui Tan] 14:51:05
+So, from here, we'll move on to the next
+
+[RSE Chee Hui Tan] 14:51:11
+a pot formula management.
+
+[RSE Chee Hui Tan] 14:51:14
+So… anyone thinks that this is…
+
+[RSE Chee Hui Tan] 14:51:18
+much of relevance, or no?
+
+[RSE Chee Hui Tan] 14:51:21
+Plus, I mean, this is… this is just, like, one small project.
+
+[LUIS SHAO HUI VOO] 14:51:24
+Because, I mean.
+
+[RSE Chee Hui Tan] 14:51:25
+I'm not sure how portfolio management can…
+
+[LUIS SHAO HUI VOO] 14:51:30
+Okay, now I'm reading portfolio management again. I think it's relevant to our project because
+
+[LUIS SHAO HUI VOO] 14:51:38
+We need to document our project. We need to document like what are the
+
+[LUIS SHAO HUI VOO] 14:51:44
+things we have done, what are the decisions that we have made to realize what we have at the end of the project
+
+[LUIS SHAO HUI VOO] 14:51:51
+So this includes like the
+
+[LUIS SHAO HUI VOO] 14:51:55
+pictures we have taken, the actions we have taken
+
+[LUIS SHAO HUI VOO] 14:51:59
+And the
+
+[LUIS SHAO HUI VOO] 14:52:01
+designs, code, and whatnot we have done to
+
+[LUIS SHAO HUI VOO] 14:52:05
+make our arena and make our project
+
+[LUIS SHAO HUI VOO] 14:52:08
+So, I think it's
+
+[LUIS SHAO HUI VOO] 14:52:12
+quite important
+
+[LUIS SHAO HUI VOO] 14:52:14
+And we have that covered already, actually. The GitHub repository that I've made for everyone is
+
+[LUIS SHAO HUI VOO] 14:52:21
+handle all of these information files and data
+
+[LUIS SHAO HUI VOO] 14:52:26
+So that we can trace back and we can present it to
+
+[LUIS SHAO HUI VOO] 14:52:31
+Oh, professors
+
+[LUIS SHAO HUI VOO] 14:52:33
+At the end of the project
+
+[RSE Dino Yeo Guo Wei] 14:52:33
+Okay, I understand.
+
+[RSE Dino Yeo Guo Wei] 14:52:34
+Uh, then I got one question would be, like,
+
+[RSE Dino Yeo Guo Wei] 14:52:37
+According to the description in INCOSE, it says…
+
+[RSE Dino Yeo Guo Wei] 14:52:42
+project creates the…
+
+[RSE Dino Yeo Guo Wei] 14:52:44
+product or service that meets the objective and generates revenue for the organization. So, what is this, like,
+
+[RSE Dino Yeo Guo Wei] 14:52:50
+revenue in this context, then?
+
+[RSE Chee Hui Tan] 14:52:57
+I guess it should be all grades, but I don't think it's… that part should be applicable.
+
+[RSE Chee Hui Tan] 14:53:03
+But I think the process measure, I think it would be… will be the grids itself lah.
+
+[RSE Chee Hui Tan] 14:53:09
+See, cost is also a good way to charge.
+
+[RSE Chee Hui Tan] 14:53:13
+if the professors think or think our project is good enough or not.
+
+[Ng Chee Rui, Ethan] 14:53:29
+This section seems more business-coded, but I need to take, like, certain sections out of it to apply for all contacts, because our site, we don't have…
+
+[Ng Chee Rui, Ethan] 14:53:38
+We have little to no, like, business.
+
+[Ng Chee Rui, Ethan] 14:53:42
+related stuff inside. So, in terms of, like, financial returns, financial considerations outside of our budget, I don't really think that we have much else to consider in that regard.
+
+[JOVEN TOH] 14:53:55
+Yeah, I'm pretty sure this is, like, the high-ups there, so it's probably, like, how they review their…
+
+[JOVEN TOH] 14:54:01
+modules…
+
+[Tan Ka Heng Anthony] 14:54:04
+Yeah, I don't think it is as relevant as, uh…
+
+[Tan Ka Heng Anthony] 14:54:09
+It's supposed to be like, should the GitHub stuff is there, but
+
+[Tan Ka Heng Anthony] 14:54:12
+I think this falls under a different section, actually.
+
+[Tan Ka Heng Anthony] 14:54:18
+Like, I believe this falls later on in the processes.
+
+[Tan Ka Heng Anthony] 14:54:23
+Uh, specifically 2.3.5.
+
+[Tan Ka Heng Anthony] 14:54:25
+But we'll touch on that later.
+
+[RSE Chee Hui Tan] 14:54:31
+Okay, moving forward, it would be the quality management process.
+
+[RSE Chee Hui Tan] 14:54:35
+I think it's actually quite relevant.
+
+[RSE Chee Hui Tan] 14:54:44
+This year, what else?
+
+[RSE Chee Hui Tan] 14:54:45
+Oh, my bed, uh, it's supposed to be Human Resource Management.
+
+[RSE Chee Hui Tan] 14:54:50
+That one, I think, is more of, uh…
+
+[RSE Chee Hui Tan] 14:54:52
+how we manage ourselves, I guess.
+
+[RSE Chee Hui Tan] 14:54:55
+Plus, is…
+
+[RSE Chee Hui Tan] 14:54:56
+Everyone has a different way of, uh, getting to work.
+
+[RSE Chee Hui Tan] 14:55:01
+like, the motivation to do, for example, like,
+
+[RSE Chee Hui Tan] 14:55:04
+Uh, because I was asked, like,
+
+[RSE Chee Hui Tan] 14:55:07
+procrastinate and stuff like that, so it's more of a…
+
+[RSE Chee Hui Tan] 14:55:09
+way to manage ourselves.
+
+[RSE Chee Hui Tan] 14:55:13
+just, at least this is what I'm getting from Ila.
+
+[RSE Chee Hui Tan] 14:55:16
+Anyone can add on, or…?
+
+[RSE Chee Hui Tan] 14:55:19
+refute what I'm trying to say.
+
+[Ng Chee Rui, Ethan] 14:55:20
+I would say it's more on the technical aspect, like hard skills rather than soft skills, because…
+
+[Ng Chee Rui, Ethan] 14:55:26
+for the human resource management,
+
+[Ng Chee Rui, Ethan] 14:55:29
+They are talking about more, like, skill-based
+
+[Ng Chee Rui, Ethan] 14:55:32
+whether or not you need to, like, develop or train yourself in
+
+[Ng Chee Rui, Ethan] 14:55:35
+The relevant skills needed for a project. In this case, it'll probably be our competency in ROS 2.
+
+[Ng Chee Rui, Ethan] 14:55:42
+Maybe a bit in, like, arena creation, but I don't think that's the main part. The main part will likely be the Ross 2, since…
+
+[Ng Chee Rui, Ethan] 14:55:48
+The bulk of the coding requires some prior knowledge and skillset that we need to develop, hence the…
+
+[Ng Chee Rui, Ethan] 14:55:54
+introduction for the Udemy courses that we have for both Ross 2
+
+[Ng Chee Rui, Ethan] 14:55:58
+Yeah, she just rostool, correct.
+
+[Tan Ka Heng Anthony] 14:56:01
+Actually, uh, not just Ross to make, also systems engineering since.
+
+[Tan Ka Heng Anthony] 14:56:06
+According to Rubik's 70%.
+
+[Tan Ka Heng Anthony] 14:56:09
+As if I recall, and also…
+
+[Tan Ka Heng Anthony] 14:56:11
+I agree with you, it's more technical than, uh…
+
+[Tan Ka Heng Anthony] 14:56:15
+human aspect, I believe.
+
+[RSE Chee Hui Tan] 14:56:20
+Okay, so it's more of…
+
+[RSE Chee Hui Tan] 14:56:25
+skills-related stuff lah.
+
+[RSE Chee Hui Tan] 14:56:27
+Okay, no issue.
+
+[RSE Chee Hui Tan] 14:56:29
+And you want… you all agree, right?
+
+[RSE Chee Hui Tan] 14:56:32
+Okay, everyone nodded. So, we can move on to the next one, which is quality assurance. Quality assurance?
+
+[RSE Chee Hui Tan] 14:56:39
+Quality management process, my bad.
+
+[RSE Chee Hui Tan] 14:56:41
+Uh, I think that one is more of…
+
+[RSE Chee Hui Tan] 14:56:44
+like, we can put our traceability to show that, okay, everything that we did
+
+[RSE Chee Hui Tan] 14:56:50
+be part of the…
+
+[RSE Chee Hui Tan] 14:56:52
+Uh, decision gates that we have set.
+
+[RSE Chee Hui Tan] 14:56:55
+tool, so that…
+
+[RSE Chee Hui Tan] 14:56:56
+Uh-huh. When it gets to the final
+
+[RSE Chee Hui Tan] 14:57:00
+presentation of VIVA.
+
+[RSE Chee Hui Tan] 14:57:02
+We can show that the… to the professors that
+
+[RSE Chee Hui Tan] 14:57:07
+via, uh, all these, uh…
+
+[RSE Chee Hui Tan] 14:57:10
+steps that we followed through the decision case.
+
+[RSE Chee Hui Tan] 14:57:12
+that our project and the Limo robot, or the arena.
+
+[RSE Chee Hui Tan] 14:57:17
+it all… that is one part of quality management.
+
+[RSE Chee Hui Tan] 14:57:21
+The second part should be, but…
+
+[RSE Chee Hui Tan] 14:57:23
+more of a hardware stuff, like…
+
+[RSE Chee Hui Tan] 14:57:26
+uh… the arena, the certain quality…
+
+[RSE Chee Hui Tan] 14:57:30
+for the components that we buy, something like that, so…
+
+[RSE Chee Hui Tan] 14:57:33
+Anyone, uh, disagrees or wants to add all
+
+[LUIS SHAO HUI VOO] 14:57:46
+I think pile of quality like management process also shows that
+
+[LUIS SHAO HUI VOO] 14:57:55
+there were
+
+[LUIS SHAO HUI VOO] 14:57:56
+effort put into executing some of the
+
+[LUIS SHAO HUI VOO] 14:58:01
+things to realize the project.
+
+[LUIS SHAO HUI VOO] 14:58:03
+And it's not just like simply… it's not just meeting the requirements.
+
+[LUIS SHAO HUI VOO] 14:58:08
+of the project. It's putting effort to make sure that it is
+
+[LUIS SHAO HUI VOO] 14:58:15
+Well thought out.
+
+[LUIS SHAO HUI VOO] 14:58:17
+executed with effort.
+
+[LUIS SHAO HUI VOO] 14:58:19
+and not some low effort execution that
+
+[LUIS SHAO HUI VOO] 14:58:24
+is done to meet the requirements.
+
+[Ng Chee Rui, Ethan] 14:58:28
+I looked through the incursive, but seems like the way that they phrased it
+
+[LUIS SHAO HUI VOO] 14:58:30
+Yeah
+
+[Ng Chee Rui, Ethan] 14:58:33
+sounds a lot like a mentality and practice kind of thing.
+
+[Ng Chee Rui, Ethan] 14:58:36
+Uh, I'll just, like, try to condense what I read through on the elaboration.
+
+[Ng Chee Rui, Ethan] 14:58:41
+Seems to be mean, like, there's 4 main, like, things that they talk about.
+
+[Ng Chee Rui, Ethan] 14:58:46
+Which is, uh… let's see… first one they say is definition of quality is to meet the stakeholders' requirements, needs, and expectations.
+
+[Ng Chee Rui, Ethan] 14:58:54
+The sister of Quality is prevention.
+
+[Ng Chee Rui, Ethan] 14:58:58
+Standard for quality is zero defects, and then the measuring quality, the method for measuring quality is the price of non-conformance.
+
+[Ng Chee Rui, Ethan] 14:59:05
+Generally, I seem to…
+
+[Ng Chee Rui, Ethan] 14:59:07
+see that it's, uh…
+
+[Ng Chee Rui, Ethan] 14:59:09
+very mentality-driven, in the sense that the…
+
+[Ng Chee Rui, Ethan] 14:59:14
+Process needs to be something that is…
+
+[Ng Chee Rui, Ethan] 14:59:17
+consistently done.
+
+[Ng Chee Rui, Ethan] 14:59:18
+So that the… and it's a cycle that keeps… that keeps happening throughout the course of the project.
+
+[RSE Dino Yeo Guo Wei] 14:59:27
+Is this only tied to the production stage?
+
+[Tan Ka Heng Anthony] 14:59:32
+No issue shouldn't be tied to production stage. It's supposed to be something that is applied continuously throughout the entire lifecycle.
+
+[Tan Ka Heng Anthony] 14:59:39
+In fact, let's say in your own decision making, like in your planning stage.
+
+[Tan Ka Heng Anthony] 14:59:45
+You also want to consider whether or not.
+
+[Tan Ka Heng Anthony] 14:59:48
+There's, like, a risk of.
+
+[Tan Ka Heng Anthony] 14:59:51
+Um, like the defects happening.
+
+[Tan Ka Heng Anthony] 14:59:52
+And you want to catch that as early as possible also.
+
+[Tan Ka Heng Anthony] 14:59:55
+So that the cost won't incur, won't snowball like.
+
+[Tan Ka Heng Anthony] 15:00:00
+further down the road.
+
+[Ng Chee Rui, Ethan] 15:00:15
+Yeah…
+
+[Ng Chee Rui, Ethan] 15:00:16
+Sorry, yeah. Uh, I don't see any, like, timestamp or, like, specific time frame where it is, like, ideally used, so I will assume that generally you can use it wherever necessary inside the project.
+
+[Tan Ka Heng Anthony] 15:00:32
+Yeah, in fact, right, later down in that very same page that you read the four.
+
+[Tan Ka Heng Anthony] 15:00:37
+uh, topics, the four criterias that.
+
+[Tan Ka Heng Anthony] 15:00:40
+The four mindsets that you read, right?
+
+[Tan Ka Heng Anthony] 15:00:43
+It says that it also applies to the planning and managerial aspects for give me a just like.
+
+[Tan Ka Heng Anthony] 15:00:55
+One or two seconds to read again.
+
+[Tan Ka Heng Anthony] 15:00:56
+Yeah, it says there is a planning and budgeting skills that resonates with the organization. So it needs to be.
+
+[Tan Ka Heng Anthony] 15:01:01
+Not only something that, uh…
+
+[Tan Ka Heng Anthony] 15:01:04
+Is according to what the organization wants, it's also depending on
+
+[Tan Ka Heng Anthony] 15:01:07
+the quality of work that you want to provide to the…
+
+[Tan Ka Heng Anthony] 15:01:11
+our stakeholders. So.
+
+[Tan Ka Heng Anthony] 15:01:14
+Let's say, right, for example.
+
+[Tan Ka Heng Anthony] 15:01:16
+We just, I just bring it very down to our level.
+
+[Tan Ka Heng Anthony] 15:01:20
+For example, our, like, C programming project.
+
+[Tan Ka Heng Anthony] 15:01:23
+We want to make, we always want to make sure that.
+
+[Tan Ka Heng Anthony] 15:01:27
+what we deliver, right? There's no bugs, no mistakes.
+
+[Tan Ka Heng Anthony] 15:01:30
+when we present it to a prof.
+
+[Tan Ka Heng Anthony] 15:01:32
+And that's similar to this quality management process.
+
+[JOVEN TOH] 15:01:42
+So the application is kind of, like, the scope of thinking and the scope of work, right? The quality assurance is more towards leaning a little bit towards the scope of thinking.
+
+[JOVEN TOH] 15:01:52
+sort of. Because it's, like, ensuring that
+
+[JOVEN TOH] 15:01:55
+whatever we are producing, or whatever we are doing, is ensure that it's within the standard first, before we continue on.
+
+[Tan Ka Heng Anthony] 15:02:01
+Yep, correct.
+
+[RSE Chee Hui Tan] 15:02:09
+Any disagreements, if not, I will move forward to the next one, which is knowledge management process.
+
+[RSE Chee Hui Tan] 15:02:16
+That one, I'm not quite sure anyone wants to take that one.
+
+[RSE Dino Yeo Guo Wei] 15:02:26
+It feels to me it's more of a practice of…
+
+[RSE Dino Yeo Guo Wei] 15:02:29
+passing down knowledge.
+
+[RSE Dino Yeo Guo Wei] 15:02:44
+Yeah, it's a bit of…
+
+[RSE Dino Yeo Guo Wei] 15:02:47
+heuristics, and I guess also, it's also come from experience lah.
+
+[Ng Chee Rui, Ethan] 15:03:00
+Because it says to… it's, like, the…
+
+[Ng Chee Rui, Ethan] 15:03:02
+Passing of knowledge between…
+
+[Ng Chee Rui, Ethan] 15:03:06
+target those stakeholders.
+
+[Ng Chee Rui, Ethan] 15:03:07
+So, it doesn't really say, like, oh, if it's GIOS, it could be within, like, each individual, like, members.
+
+[Ng Chee Rui, Ethan] 15:03:14
+If, let's say, for example, I took
+
+[Ng Chee Rui, Ethan] 15:03:16
+Maybe I learned a certain part of ROS, too.
+
+[Ng Chee Rui, Ethan] 15:03:19
+And then somebody else learn, like, another part of ROS tool, and then we exchanged information with each other. That's part of knowledge permit as well.
+
+[Ng Chee Rui, Ethan] 15:03:25
+Oh, if let's say, I need to hand over a part of my project to somebody else, that kind of hotel process,
+
+[Ng Chee Rui, Ethan] 15:03:31
+can also count as knowledge management. I think this will cover both as well.
+
+[LUIS SHAO HUI VOO] 15:03:38
+Okay, I think knowledge management is also related to like documenting the project, which is
+
+[LUIS SHAO HUI VOO] 15:03:48
+is self quite similar to portfolio management process.
+
+[LUIS SHAO HUI VOO] 15:03:52
+Since
+
+[LUIS SHAO HUI VOO] 15:03:54
+Portfolio management process and knowledge management is to compile like
+
+[LUIS SHAO HUI VOO] 15:04:02
+everything we have done or known so far
+
+[LUIS SHAO HUI VOO] 15:04:06
+I think both processors
+
+[LUIS SHAO HUI VOO] 15:04:08
+have something in common.
+
+[LUIS SHAO HUI VOO] 15:04:11
+What you guys think
+
+[LUIS SHAO HUI VOO] 15:04:15
+Yeah.
+
+[Ng Chee Rui, Ethan] 15:04:17
+Yeah, I think so, because, uh, knowledge management seems to… it should be something that you do over the course of a project, and not just at the end.
+
+[Ng Chee Rui, Ethan] 15:04:25
+So, it would likely fit into, like, the sense when we do documentation along.
+
+[Ng Chee Rui, Ethan] 15:04:31
+As we continue with our work on our project, every progress that we make will be
+
+[Ng Chee Rui, Ethan] 15:04:35
+Subsequently documented with our… within our repository, and that should be…
+
+[Ng Chee Rui, Ethan] 15:04:41
+That is the… one of the main few ways that we…
+
+[Ng Chee Rui, Ethan] 15:04:44
+Incorporate knowledge management.
+
+[Ng Chee Rui, Ethan] 15:04:45
+Within our project.
+
+[Tan Ka Heng Anthony] 15:04:50
+I don't think this the GitHub repository.
+
+[Tan Ka Heng Anthony] 15:04:55
+is as related to the portfolio management process.
+
+[Tan Ka Heng Anthony] 15:04:59
+As you believe it is a cause.
+
+[Tan Ka Heng Anthony] 15:05:01
+From what I'm reading,
+
+[Tan Ka Heng Anthony] 15:05:04
+It's more like an allocation of, uh…
+
+[Tan Ka Heng Anthony] 15:05:09
+resources to ensure that the project is successful.
+
+[Tan Ka Heng Anthony] 15:05:12
+And that in the future, people will want to continue to.
+
+[Tan Ka Heng Anthony] 15:05:16
+Use it.
+
+[Tan Ka Heng Anthony] 15:05:24
+Like also you want to another goal of it, the portfolio management process is to.
+
+[Tan Ka Heng Anthony] 15:05:30
+evaluate and ensure that the project is like.
+
+[Tan Ka Heng Anthony] 15:05:34
+Or at least, like, determine whether or not the project is.
+
+[Tan Ka Heng Anthony] 15:05:36
+Capable of continuing.
+
+[Tan Ka Heng Anthony] 15:05:39
+All should be terminated all.
+
+[Tan Ka Heng Anthony] 15:05:41
+Something along those lines, sir.
+
+[LUIS SHAO HUI VOO] 15:05:45
+But in order to find out whether if the
+
+[LUIS SHAO HUI VOO] 15:05:49
+recent documentation like part of it
+
+[LUIS SHAO HUI VOO] 15:05:54
+What's documentation in itself is already like collecting information. And if it happens to be successful, then yeah, sure, can be used for like future projects and whatnot.
+
+[Ng Chee Rui, Ethan] 15:06:05
+I feel like there's more to it, though.
+
+[Ng Chee Rui, Ethan] 15:06:07
+Because, uh, like what Anthony said, for portfolio management,
+
+[Ng Chee Rui, Ethan] 15:06:12
+It is mainly tied to within the project environment itself.
+
+[Ng Chee Rui, Ethan] 15:06:16
+But for knowledge management, it can extend beyond that, because when external parties come in,
+
+[Ng Chee Rui, Ethan] 15:06:21
+They also need to be…
+
+[Ng Chee Rui, Ethan] 15:06:23
+Uh, they also need the relevant skills, concepts, and the knowledge that we have.
+
+[Ng Chee Rui, Ethan] 15:06:27
+gain from the project in order to be able to take over from the project. So I feel that for knowledge management, it can extend beyond the
+
+[Ng Chee Rui, Ethan] 15:06:35
+the project itself. Whereas for portfolio management, it may or may not be the case.
+
+[JOVEN TOH] 15:06:41
+I feel like the knowledge management is something like what we all know as the standard operating procedure, or the SOP, because this is basically taking, uh, whatever experience we've gained,
+
+[JOVEN TOH] 15:06:51
+and return it into a manual, so… because we all know SOP is, like, written in blood, sweat, and tears, ah.
+
+[JOVEN TOH] 15:06:57
+So I think this is what is the main application of it.
+
+[JOVEN TOH] 15:07:00
+for, uh,
+
+[RSE Chee Hui Tan] 15:07:01
+Yeah, right now.
+
+[RSE Chee Hui Tan] 15:07:03
+I think the best thing that we should do is…
+
+[RSE Chee Hui Tan] 15:07:07
+We can add this to one of the things that we asked our Liu Park Sang for…
+
+[RSE Chee Hui Tan] 15:07:12
+or consultation. So…
+
+[RSE Chee Hui Tan] 15:07:16
+Because, so far, it can be quite confusing.
+
+[RSE Chee Hui Tan] 15:07:19
+It's basically just us.
+
+[RSE Chee Hui Tan] 15:07:21
+But from what we have so far,
+
+[RSE Chee Hui Tan] 15:07:24
+at least for 2.3…
+
+[RSE Chee Hui Tan] 15:07:26
+I think it's quite good that we are able to…
+
+[RSE Chee Hui Tan] 15:07:31
+uh, relate these processes to…
+
+[RSE Chee Hui Tan] 15:07:35
+our project, because prior, we didn't exactly do that.
+
+[RSE Chee Hui Tan] 15:07:40
+And we actually quite…
+
+[RSE Chee Hui Tan] 15:07:41
+disagreed that, uh, most of the processors is not really useful.
+
+[RSE Chee Hui Tan] 15:07:45
+But now that we discussed among ourselves, it's actually quite… some of it is quite relevant.
+
+[RSE Chee Hui Tan] 15:07:51
+Most of it's quite relevant in this case.
+
+[RSE Chee Hui Tan] 15:07:53
+So, uh…
+
+[RSE Chee Hui Tan] 15:07:56
+that's about it for this section.
+
+[RSE Chee Hui Tan] 15:07:59
+Is there anything else you guys want to add?
+
+[Tan Ka Heng Anthony] 15:08:03
+Okay, I guess for the consultation questions, right, we try to get it out by
+
+[Tan Ka Heng Anthony] 15:08:09
+Tomorrow 10 PM, hopefully.
+
+[Tan Ka Heng Anthony] 15:08:12
+Or what do you think is a more reasonable, like, timeframe? Because…
+
+[Tan Ka Heng Anthony] 15:08:15
+I want to be able to submit the consultation request as soon as possible.
+
+[Ng Chee Rui, Ethan] 15:08:23
+How many questions do you want?
+
+[Tan Ka Heng Anthony] 15:08:26
+Uh, I'm assuming that we have one on OpsCon, one on Cornobs, and then…
+
+[Tan Ka Heng Anthony] 15:08:31
+A general question for…
+
+[Tan Ka Heng Anthony] 15:08:33
+the organizational management process.
+
+[Tan Ka Heng Anthony] 15:08:36
+And then another one for, like, the…
+
+[Tan Ka Heng Anthony] 15:08:39
+other questions relating to.
+
+[Tan Ka Heng Anthony] 15:08:42
+Uh, how big.
+
+[Tan Ka Heng Anthony] 15:08:43
+We should be looking at our scope.
+
+[Ng Chee Rui, Ethan] 15:08:47
+Okay, no, because I think at the very least, yeah, outside of just called knobs, OpsCon,
+
+[Ng Chee Rui, Ethan] 15:08:53
+Then the last… the big question that we need to ask is how… what other topics are relevant?
+
+[Ng Chee Rui, Ethan] 15:08:58
+I think we can put these 3 plus whatever else that you want to…
+
+[Ng Chee Rui, Ethan] 15:09:04
+Uh, ask Prov Baksan.
+
+[Ng Chee Rui, Ethan] 15:09:05
+Then afterwards, when we actually ask him, we start off with those 3 first.
+
+[Ng Chee Rui, Ethan] 15:09:10
+Because I feel that some of the…
+
+[Ng Chee Rui, Ethan] 15:09:13
+Future questions will not matter if he just says, oh, this section is actually not relevant, it is out of scope for us, because it is too far.
+
+[Ng Chee Rui, Ethan] 15:09:21
+then there will be… this will be all for nothing. So, we can probably start with those three first.
+
+[Ng Chee Rui, Ethan] 15:09:26
+If you're
+
+[Tan Ka Heng Anthony] 15:09:29
+Okay, Ken. In that case, right, we should probably put this inside our Word docs.
+
+[Tan Ka Heng Anthony] 15:09:34
+Uh, which is our own private one.
+
+[Tan Ka Heng Anthony] 15:09:37
+And then we just make sure that it's…
+
+[Tan Ka Heng Anthony] 15:09:40
+The question is properly crafted tool.
+
+[Tan Ka Heng Anthony] 15:09:44
+Uh, ask Bravaksant.
+
+[RSE Chee Hui Tan] 15:09:50
+Any questions?
+
+[RSE Chee Hui Tan] 15:09:52
+Other than that, for the other timelines we need…
+
+[RSE Chee Hui Tan] 15:09:56
+you were… you are set to finish… at least set up ROS 2.
+
+[RSE Chee Hui Tan] 15:10:01
+by Saturday at 9pm. That's on our agenda, also.
+
+[Tan Ka Heng Anthony] 15:10:11
+Hopefully, uh, tomorrow 10 PM.
+
+[Tan Ka Heng Anthony] 15:10:15
+For the questions for the consultation.
+
+[RSE Chee Hui Tan] 15:10:24
+Yeah, just pull up those columns.
+
+[Tan Ka Heng Anthony] 15:10:28
+Okay, Dino will be putting this in our milestones that
+
+[Tan Ka Heng Anthony] 15:10:33
+We'll be recording in our own private document also.
+
+[RSE Chee Hui Tan] 15:10:38
+Anything else? If not, we can adjourn the meeting.
+
+[LUIS SHAO HUI VOO] 15:10:44
+Let me save the transcript first and all the way
+
+[RSE Chee Hui Tan] 15:10:56
+Okay, so we need to refine the arena. That one is…
+
+[RSE Chee Hui Tan] 15:11:00
+Uh, to be decided.
+
+[RSE Chee Hui Tan] 15:11:03
+And come up with a consulting… we've come up with consultation questions, okay? The one…
+
+[RSE Chee Hui Tan] 15:11:08
+is by tomorrow 10pm.
+
+[RSE Chee Hui Tan] 15:11:12
+Uh, times for next week, try to put for consultation.
+
+[RSE Chee Hui Tan] 15:11:16
+mess.
+
+[RSE Chee Hui Tan] 15:11:19
+hope that by Monday, the physical plot.
+
+[RSE Chee Hui Tan] 15:11:23
+is set up in, uh…
+
+[Tan Ka Heng Anthony] 15:11:29
+Okay, regarding the plot, right? Actually, Prof Johannes is already at W3, so we can go there right now.
+
+[Tan Ka Heng Anthony] 15:11:35
+He'll be there until 5 PM.
+
+[RSE Dino Yeo Guo Wei] 15:11:36
+I will see.
+
+[RSE Chee Hui Tan] 15:11:36
+in the WA.
+
+[RSE Chee Hui Tan] 15:11:37
+Okay, then after this, we should go and take a look, pa.
+
+[RSE Chee Hui Tan] 15:11:41
+Then, uh, define the structures
+
+[RSE Chee Hui Tan] 15:11:44
+to include in the arena, that is something we can decide by next week.
+
+[RSE Chee Hui Tan] 15:11:48
+come up with a list of materials to buy and finalize.
+
+[RSE Chee Hui Tan] 15:11:53
+They say on dates and time.
+
+[RSE Chee Hui Tan] 15:11:56
+to procure the materials that is to be…
+
+[RSE Chee Hui Tan] 15:12:00
+answer, because we do not have the answers to that yet. So…
+
+[RSE Chee Hui Tan] 15:12:05
+But that is what we're trying to accomplish.
+
+[RSE Chee Hui Tan] 15:12:09
+soon. If not, that will be all for this weekend. Thank you for
+
